@@ -4,11 +4,9 @@
 let map, heatmap;
 
 function initMap() {
-
-  var latLon = {lat: 37.775, lng: -122.434};
+  var latLon = {lat: -9.271064, lng: -75.98777};
 
   map = new google.maps.Map(document.getElementById("map"), {
-    zoom: 13,
     mapTypeId: "satellite",
   });
   heatmap = new google.maps.visualization.HeatmapLayer({
@@ -22,8 +20,6 @@ function initMap() {
         function (position) {
           latLon.lat = position.coords.latitude; /*Guardamos nuestra latitud*/
           latLon.lng = position.coords.longitude; /*Guardamos nuestra longitud*/
-          map.setCenter(latLon);
-          map.setZoom(13);
         }
         ,function() {
           handleLocationError('Error: The Geolocation service failed.');
@@ -32,20 +28,9 @@ function initMap() {
     // Browser doesn't support Geolocation
     handleLocationError('Error: Your browser doesn\'t support geolocation.');
   }
-
-  $.get( "data.json", function() {
-    alert( "success" );
-  })
-      .done(function() {
-        alert( "second success" );
-      })
-      .fail(function() {
-        alert( "error" );
-      })
-      .always(function() {
-        alert( "finished" );
-      });
-
+  map.setCenter(latLon);
+  map.setZoom(6);
+  ActualizaMap();
 }
 
 function handleLocationError(error) {
@@ -75,6 +60,25 @@ function changeGradient() {
     "rgba(255, 0, 0, 1)",
   ];
   heatmap.set("gradient", heatmap.get("gradient") ? null : gradient);
+}
+
+function ActualizaMap() {
+  let positions = []
+  $.get( "https://arcadioenciso.github.io/HeadMap/data.json", function(data) {
+    for(let i=0; i < data.data.length; i++){
+      positions.push(new google.maps.LatLng(data.data[i].Latitud, data.data[i].Longitud))
+    }
+    heatmap.setData(new google.maps.MVCArray(positions));
+  })
+      .done(function() {
+        // alert( "second success" );
+      })
+      .fail(function() {
+        // alert( "error" );
+      })
+      .always(function() {
+        // alert( "finished" );
+      });
 }
 
 function changeRadius() {
