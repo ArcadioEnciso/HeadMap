@@ -1,34 +1,6 @@
 {
 	"data": [
 		{
-			"IdEstablecimiento": "IdEstablecimiento",
-			"EstNombre": "EstNombre",
-			"Disa": "Disa",
-			"Red": "Red",
-			"Microred": "Microred",
-			"Codunico": "Codunico",
-			"Ruc": "Ruc",
-			"Direccion": "Direccion",
-			"Departamento": "Departamento",
-			"Provincia": "Provincia",
-			"Distrito": "Distrito",
-			"CategoriaNivel1": "CategoriaNivel1",
-			"ClasificacionNivel1": "ClasificacionNivel1",
-			"Meta": "Meta",
-			"Vacunados": "Vacunados",
-			"Stock": "Stock",
-			"MetaPorcentaje": "MetaPorcentaje",
-			"Avance": "Avance",
-			"AvancePorcentaje": "AvancePorcentaje",
-			"VacunadosPorcentaje": "VacunadosPorcentaje",
-			"Pendientes": "Pendientes",
-			"PendientesPorcentaje": "PendientesPorcentaje",
-			"Perdidos": "Perdidos",
-			"CantidadVacunados": "CantidadVacunados",
-			"Latitud": "Latitud",
-			"Longitud": "Longitud"
-		},
-		{
 			"IdEstablecimiento": "5392",
 			"EstNombre": "AGUAYTIA",
 			"Disa": "UCAYALI",
@@ -53,8 +25,8 @@
 			"PendientesPorcentaje": "89.76",
 			"Perdidos": "0",
 			"CantidadVacunados": "86",
-			"Latitud": "-9.05235673",
-			"Longitud": "-75.51247932"
+			"Latitud": -9.052357,
+			"Longitud": -75.51248
 		},
 		{
 			"IdEstablecimiento": "162",
@@ -81,8 +53,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-7.34801882",
-			"Longitud": "-75.00736135"
+			"Latitud": -7.3480186,
+			"Longitud": -75.00736
 		},
 		{
 			"IdEstablecimiento": "5218",
@@ -109,8 +81,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "56",
-			"Latitud": "-8.07878339",
-			"Longitud": "-79.1184937"
+			"Latitud": -8.078783,
+			"Longitud": -79.11849
 		},
 		{
 			"IdEstablecimiento": "5219",
@@ -137,8 +109,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.02361632",
-			"Longitud": "-79.06618084"
+			"Latitud": -8.023617,
+			"Longitud": -79.06618
 		},
 		{
 			"IdEstablecimiento": "9130",
@@ -165,8 +137,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-7.792812",
-			"Longitud": "-79.222181"
+			"Latitud": -7.792812,
+			"Longitud": -79.22218
 		},
 		{
 			"IdEstablecimiento": "5266",
@@ -193,8 +165,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "37",
-			"Latitud": "-7.73546833",
-			"Longitud": "-79.29789"
+			"Latitud": -7.7354684,
+			"Longitud": -79.29789
 		},
 		{
 			"IdEstablecimiento": "5261",
@@ -221,8 +193,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "33",
-			"Latitud": "-7.84355517",
-			"Longitud": "-79.14476395"
+			"Latitud": -7.843555,
+			"Longitud": -79.14477
 		},
 		{
 			"IdEstablecimiento": "5260",
@@ -249,8 +221,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "45",
-			"Latitud": "-7.71423657",
-			"Longitud": "-79.10125903"
+			"Latitud": -7.7142367,
+			"Longitud": -79.10126
 		},
 		{
 			"IdEstablecimiento": "9082",
@@ -277,8 +249,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-7.71742333",
-			"Longitud": "-79.11440667"
+			"Latitud": -7.7174234,
+			"Longitud": -79.11441
 		},
 		{
 			"IdEstablecimiento": "5274",
@@ -305,8 +277,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "56",
-			"Latitud": "-7.48168056",
-			"Longitud": "-78.81739121"
+			"Latitud": -7.4816804,
+			"Longitud": -78.81739
 		},
 		{
 			"IdEstablecimiento": "9036",
@@ -333,8 +305,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-7.7473482",
-			"Longitud": "-79.1896199"
+			"Latitud": -7.7473483,
+			"Longitud": -79.18962
 		},
 		{
 			"IdEstablecimiento": "5286",
@@ -361,8 +333,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "52",
-			"Latitud": "-7.42683864",
-			"Longitud": "-79.50385659"
+			"Latitud": -7.426839,
+			"Longitud": -79.50385
 		},
 		{
 			"IdEstablecimiento": "2886",
@@ -389,8 +361,8 @@
 			"PendientesPorcentaje": "22.43",
 			"Perdidos": "0",
 			"CantidadVacunados": "83",
-			"Latitud": "-18.04537936",
-			"Longitud": "-70.25389899"
+			"Latitud": -18.04538,
+			"Longitud": -70.2539
 		},
 		{
 			"IdEstablecimiento": "10622",
@@ -417,8 +389,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-17.98154",
-			"Longitud": "-70.20382167"
+			"Latitud": -17.98154,
+			"Longitud": -70.20382
 		},
 		{
 			"IdEstablecimiento": "2862",
@@ -445,8 +417,8 @@
 			"PendientesPorcentaje": "25.09",
 			"Perdidos": "0",
 			"CantidadVacunados": "660",
-			"Latitud": "-18.01515983",
-			"Longitud": "-70.25524329"
+			"Latitud": -18.01516,
+			"Longitud": -70.25524
 		},
 		{
 			"IdEstablecimiento": "2883",
@@ -473,8 +445,8 @@
 			"PendientesPorcentaje": "12.79",
 			"Perdidos": "0",
 			"CantidadVacunados": "75",
-			"Latitud": "-17.98391075",
-			"Longitud": "-70.23496652"
+			"Latitud": -17.983912,
+			"Longitud": -70.23497
 		},
 		{
 			"IdEstablecimiento": "2816",
@@ -501,8 +473,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "235",
-			"Latitud": "-17.65390951",
-			"Longitud": "-71.33737495"
+			"Latitud": -17.65391,
+			"Longitud": -71.33737
 		},
 		{
 			"IdEstablecimiento": "23597",
@@ -529,8 +501,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-17.64222167",
-			"Longitud": "-71.34284667"
+			"Latitud": -17.642221,
+			"Longitud": -71.34285
 		},
 		{
 			"IdEstablecimiento": "2881",
@@ -557,8 +529,8 @@
 			"PendientesPorcentaje": "11.63",
 			"Perdidos": "0",
 			"CantidadVacunados": "76",
-			"Latitud": "-17.99417176",
-			"Longitud": "-70.24856963"
+			"Latitud": -17.994171,
+			"Longitud": -70.24857
 		},
 		{
 			"IdEstablecimiento": "7426",
@@ -585,8 +557,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "582",
-			"Latitud": "-17.20523841",
-			"Longitud": "-70.95177171"
+			"Latitud": -17.205238,
+			"Longitud": -70.951775
 		},
 		{
 			"IdEstablecimiento": "23599",
@@ -613,8 +585,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-17.19454562",
-			"Longitud": "-70.9534455"
+			"Latitud": -17.194546,
+			"Longitud": -70.953445
 		},
 		{
 			"IdEstablecimiento": "1444",
@@ -641,8 +613,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "42",
-			"Latitud": "-17.02003443",
-			"Longitud": "-72.0048514"
+			"Latitud": -17.020035,
+			"Longitud": -72.00485
 		},
 		{
 			"IdEstablecimiento": "8926",
@@ -669,8 +641,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-17.0194145",
-			"Longitud": "-72.014985"
+			"Latitud": -17.019415,
+			"Longitud": -72.014984
 		},
 		{
 			"IdEstablecimiento": "1344",
@@ -697,8 +669,8 @@
 			"PendientesPorcentaje": "37.34",
 			"Perdidos": "0",
 			"CantidadVacunados": "146",
-			"Latitud": "-15.47487068",
-			"Longitud": "-74.44216848"
+			"Latitud": -15.474871,
+			"Longitud": -74.44217
 		},
 		{
 			"IdEstablecimiento": "2983",
@@ -725,8 +697,8 @@
 			"PendientesPorcentaje": "43.48",
 			"Perdidos": "0",
 			"CantidadVacunados": "35",
-			"Latitud": "-16.56404692",
-			"Longitud": "-69.04147899"
+			"Latitud": -16.564047,
+			"Longitud": -69.04148
 		},
 		{
 			"IdEstablecimiento": "9561",
@@ -753,8 +725,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-16.614413",
-			"Longitud": "-72.6995748"
+			"Latitud": -16.614412,
+			"Longitud": -72.69958
 		},
 		{
 			"IdEstablecimiento": "3058",
@@ -781,8 +753,8 @@
 			"PendientesPorcentaje": "72.22",
 			"Perdidos": "0",
 			"CantidadVacunados": "5",
-			"Latitud": "-16.74176167",
-			"Longitud": "-69.71366667"
+			"Latitud": -16.741762,
+			"Longitud": -69.71367
 		},
 		{
 			"IdEstablecimiento": "1259",
@@ -809,8 +781,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "75",
-			"Latitud": "-16.445535",
-			"Longitud": "-71.5545"
+			"Latitud": -16.445536,
+			"Longitud": -71.5545
 		},
 		{
 			"IdEstablecimiento": "1296",
@@ -837,8 +809,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "61",
-			"Latitud": "-16.42708313",
-			"Longitud": "-71.503445"
+			"Latitud": -16.427084,
+			"Longitud": -71.50345
 		},
 		{
 			"IdEstablecimiento": "9558",
@@ -865,8 +837,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-16.4170111",
-			"Longitud": "-71.5086748"
+			"Latitud": -16.417011,
+			"Longitud": -71.508675
 		},
 		{
 			"IdEstablecimiento": "1231",
@@ -893,8 +865,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "1419",
-			"Latitud": "-16.41567",
-			"Longitud": "-71.53314"
+			"Latitud": -16.41567,
+			"Longitud": -71.53314
 		},
 		{
 			"IdEstablecimiento": "1232",
@@ -921,8 +893,8 @@
 			"PendientesPorcentaje": "10.98",
 			"Perdidos": "0",
 			"CantidadVacunados": "689",
-			"Latitud": "-16.401595",
-			"Longitud": "-71.52837833"
+			"Latitud": -16.401594,
+			"Longitud": -71.52838
 		},
 		{
 			"IdEstablecimiento": "8424",
@@ -949,8 +921,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "272",
-			"Latitud": "-16.414922",
-			"Longitud": "-71.530493"
+			"Latitud": -16.414923,
+			"Longitud": -71.530495
 		},
 		{
 			"IdEstablecimiento": "9635",
@@ -977,8 +949,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-16.3948228",
-			"Longitud": "-71.5310463"
+			"Latitud": -16.394823,
+			"Longitud": -71.531044
 		},
 		{
 			"IdEstablecimiento": "18881",
@@ -1005,8 +977,8 @@
 			"PendientesPorcentaje": "6.84",
 			"Perdidos": "0",
 			"CantidadVacunados": "177",
-			"Latitud": "-16.39230167",
-			"Longitud": "-71.53996667"
+			"Latitud": -16.392302,
+			"Longitud": -71.53997
 		},
 		{
 			"IdEstablecimiento": "9604",
@@ -1033,8 +1005,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-16.39657333",
-			"Longitud": "-71.54433333"
+			"Latitud": -16.396574,
+			"Longitud": -71.544334
 		},
 		{
 			"IdEstablecimiento": "17242",
@@ -1061,8 +1033,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-16.3902967",
-			"Longitud": "-71.5412497"
+			"Latitud": -16.390297,
+			"Longitud": -71.54125
 		},
 		{
 			"IdEstablecimiento": "1294",
@@ -1089,8 +1061,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "60",
-			"Latitud": "-16.401929",
-			"Longitud": "-71.511537"
+			"Latitud": -16.40193,
+			"Longitud": -71.511536
 		},
 		{
 			"IdEstablecimiento": "27756",
@@ -1117,8 +1089,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "133",
-			"Latitud": "-16.400656",
-			"Longitud": "-71.5125403"
+			"Latitud": -16.400656,
+			"Longitud": -71.51254
 		},
 		{
 			"IdEstablecimiento": "1292",
@@ -1145,8 +1117,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "55",
-			"Latitud": "-16.383061",
-			"Longitud": "-71.511274"
+			"Latitud": -16.38306,
+			"Longitud": -71.51128
 		},
 		{
 			"IdEstablecimiento": "3347",
@@ -1173,8 +1145,8 @@
 			"PendientesPorcentaje": "56.46",
 			"Perdidos": "0",
 			"CantidadVacunados": "64",
-			"Latitud": "-16.24715833",
-			"Longitud": "-69.090335"
+			"Latitud": -16.247158,
+			"Longitud": -69.09033
 		},
 		{
 			"IdEstablecimiento": "1237",
@@ -1201,8 +1173,8 @@
 			"PendientesPorcentaje": "16.88",
 			"Perdidos": "0",
 			"CantidadVacunados": "53",
-			"Latitud": "-16.3514378",
-			"Longitud": "-71.5625923"
+			"Latitud": -16.351439,
+			"Longitud": -71.56259
 		},
 		{
 			"IdEstablecimiento": "2988",
@@ -1229,8 +1201,8 @@
 			"PendientesPorcentaje": "57.34",
 			"Perdidos": "0",
 			"CantidadVacunados": "61",
-			"Latitud": "-16.20870352",
-			"Longitud": "-69.45710214"
+			"Latitud": -16.208704,
+			"Longitud": -69.4571
 		},
 		{
 			"IdEstablecimiento": "21714",
@@ -1257,8 +1229,8 @@
 			"PendientesPorcentaje": "41.97",
 			"Perdidos": "0",
 			"CantidadVacunados": "112",
-			"Latitud": "-16.3885936",
-			"Longitud": "-71.5500833"
+			"Latitud": -16.388594,
+			"Longitud": -71.55009
 		},
 		{
 			"IdEstablecimiento": "1383",
@@ -1285,8 +1257,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "35",
-			"Latitud": "-16.22668452",
-			"Longitud": "-72.47076497"
+			"Latitud": -16.226685,
+			"Longitud": -72.470764
 		},
 		{
 			"IdEstablecimiento": "1325",
@@ -1313,8 +1285,8 @@
 			"PendientesPorcentaje": "15.49",
 			"Perdidos": "0",
 			"CantidadVacunados": "60",
-			"Latitud": "-16.36211873",
-			"Longitud": "-72.19036941"
+			"Latitud": -16.36212,
+			"Longitud": -72.19037
 		},
 		{
 			"IdEstablecimiento": "23685",
@@ -1341,8 +1313,8 @@
 			"PendientesPorcentaje": "28.63",
 			"Perdidos": "0",
 			"CantidadVacunados": "187",
-			"Latitud": "-16.32091929",
-			"Longitud": "-72.22118986"
+			"Latitud": -16.320919,
+			"Longitud": -72.22119
 		},
 		{
 			"IdEstablecimiento": "3050",
@@ -1369,8 +1341,8 @@
 			"PendientesPorcentaje": "52.38",
 			"Perdidos": "0",
 			"CantidadVacunados": "10",
-			"Latitud": "-16.11271",
-			"Longitud": "-69.551395"
+			"Latitud": -16.11271,
+			"Longitud": -69.55139
 		},
 		{
 			"IdEstablecimiento": "1382",
@@ -1397,8 +1369,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "122",
-			"Latitud": "-16.076545",
-			"Longitud": "-72.49043833"
+			"Latitud": -16.076546,
+			"Longitud": -72.49044
 		},
 		{
 			"IdEstablecimiento": "9878",
@@ -1425,8 +1397,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-15.87305667",
-			"Longitud": "-69.99991"
+			"Latitud": -15.873056,
+			"Longitud": -69.99991
 		},
 		{
 			"IdEstablecimiento": "3252",
@@ -1453,8 +1425,8 @@
 			"PendientesPorcentaje": "15.69",
 			"Perdidos": "0",
 			"CantidadVacunados": "43",
-			"Latitud": "-15.83875",
-			"Longitud": "-70.035045"
+			"Latitud": -15.83875,
+			"Longitud": -70.03504
 		},
 		{
 			"IdEstablecimiento": "3249",
@@ -1481,8 +1453,8 @@
 			"PendientesPorcentaje": "31.77",
 			"Perdidos": "0",
 			"CantidadVacunados": "277",
-			"Latitud": "-15.84185333",
-			"Longitud": "-70.02156667"
+			"Latitud": -15.841853,
+			"Longitud": -70.02157
 		},
 		{
 			"IdEstablecimiento": "1388",
@@ -1509,8 +1481,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "28",
-			"Latitud": "-15.840582",
-			"Longitud": "-72.653577"
+			"Latitud": -15.840582,
+			"Longitud": -72.65358
 		},
 		{
 			"IdEstablecimiento": "1419",
@@ -1537,8 +1509,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "59",
-			"Latitud": "-15.63378644",
-			"Longitud": "-71.59924381"
+			"Latitud": -15.633786,
+			"Longitud": -71.59924
 		},
 		{
 			"IdEstablecimiento": "3123",
@@ -1565,8 +1537,8 @@
 			"PendientesPorcentaje": "34.78",
 			"Perdidos": "0",
 			"CantidadVacunados": "15",
-			"Latitud": "-15.61996833",
-			"Longitud": "-70.34671833"
+			"Latitud": -15.619968,
+			"Longitud": -70.34672
 		},
 		{
 			"IdEstablecimiento": "3093",
@@ -1593,8 +1565,8 @@
 			"PendientesPorcentaje": "45.45",
 			"Perdidos": "0",
 			"CantidadVacunados": "6",
-			"Latitud": "-15.46176167",
-			"Longitud": "-69.437505"
+			"Latitud": -15.461761,
+			"Longitud": -69.43751
 		},
 		{
 			"IdEstablecimiento": "3135",
@@ -1621,8 +1593,8 @@
 			"PendientesPorcentaje": "36.36",
 			"Perdidos": "0",
 			"CantidadVacunados": "21",
-			"Latitud": "-15.69343667",
-			"Longitud": "-70.6095"
+			"Latitud": -15.693437,
+			"Longitud": -70.6095
 		},
 		{
 			"IdEstablecimiento": "3297",
@@ -1649,8 +1621,8 @@
 			"PendientesPorcentaje": "58.69",
 			"Perdidos": "0",
 			"CantidadVacunados": "283",
-			"Latitud": "-15.4826008",
-			"Longitud": "-70.11945789"
+			"Latitud": -15.482601,
+			"Longitud": -70.11946
 		},
 		{
 			"IdEstablecimiento": "3298",
@@ -1677,8 +1649,8 @@
 			"PendientesPorcentaje": "42.59",
 			"Perdidos": "0",
 			"CantidadVacunados": "31",
-			"Latitud": "-15.49956615",
-			"Longitud": "-70.12985587"
+			"Latitud": -15.499566,
+			"Longitud": -70.12985
 		},
 		{
 			"IdEstablecimiento": "3299",
@@ -1705,8 +1677,8 @@
 			"PendientesPorcentaje": "45.07",
 			"Perdidos": "0",
 			"CantidadVacunados": "39",
-			"Latitud": "-15.48412238",
-			"Longitud": "-70.15438435"
+			"Latitud": -15.484122,
+			"Longitud": -70.15438
 		},
 		{
 			"IdEstablecimiento": "3306",
@@ -1733,8 +1705,8 @@
 			"PendientesPorcentaje": "36.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "32",
-			"Latitud": "-15.48032349",
-			"Longitud": "-70.13931455"
+			"Latitud": -15.480324,
+			"Longitud": -70.13931
 		},
 		{
 			"IdEstablecimiento": "10851",
@@ -1761,8 +1733,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-15.5",
-			"Longitud": "-70.1333"
+			"Latitud": -15.5,
+			"Longitud": -70.1333
 		},
 		{
 			"IdEstablecimiento": "8894",
@@ -1789,8 +1761,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-9.01984",
-			"Longitud": "-78.614525"
+			"Latitud": -9.01984,
+			"Longitud": -78.614525
 		},
 		{
 			"IdEstablecimiento": "1703",
@@ -1817,8 +1789,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "679",
-			"Latitud": "-9.118993",
-			"Longitud": "-78.520213"
+			"Latitud": -9.118993,
+			"Longitud": -78.52021
 		},
 		{
 			"IdEstablecimiento": "1704",
@@ -1845,8 +1817,8 @@
 			"PendientesPorcentaje": "18.83",
 			"Perdidos": "0",
 			"CantidadVacunados": "125",
-			"Latitud": "-9.1323422",
-			"Longitud": "-78.51919552"
+			"Latitud": -9.132342,
+			"Longitud": -78.519196
 		},
 		{
 			"IdEstablecimiento": "8895",
@@ -1873,8 +1845,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-9.124726",
-			"Longitud": "-78.5233296"
+			"Latitud": -9.124726,
+			"Longitud": -78.52333
 		},
 		{
 			"IdEstablecimiento": "1633",
@@ -1901,8 +1873,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "93",
-			"Latitud": "-9.13836806",
-			"Longitud": "-77.74555107"
+			"Latitud": -9.138368,
+			"Longitud": -77.74555
 		},
 		{
 			"IdEstablecimiento": "1587",
@@ -1929,8 +1901,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "152",
-			"Latitud": "-9.04451173",
-			"Longitud": "-77.80641228"
+			"Latitud": -9.044512,
+			"Longitud": -77.80641
 		},
 		{
 			"IdEstablecimiento": "1775",
@@ -1957,8 +1929,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "16",
-			"Latitud": "-8.6969451",
-			"Longitud": "-77.42655666"
+			"Latitud": -8.696945,
+			"Longitud": -77.42656
 		},
 		{
 			"IdEstablecimiento": "2939",
@@ -1985,8 +1957,8 @@
 			"PendientesPorcentaje": "65.22",
 			"Perdidos": "0",
 			"CantidadVacunados": "80",
-			"Latitud": "-14.9041434",
-			"Longitud": "-70.19933924"
+			"Latitud": -14.904143,
+			"Longitud": -70.19934
 		},
 		{
 			"IdEstablecimiento": "7290",
@@ -2013,8 +1985,8 @@
 			"PendientesPorcentaje": "5.88",
 			"Perdidos": "0",
 			"CantidadVacunados": "16",
-			"Latitud": "-14.90595133",
-			"Longitud": "-70.19234293"
+			"Latitud": -14.9059515,
+			"Longitud": -70.192345
 		},
 		{
 			"IdEstablecimiento": "2409",
@@ -2041,8 +2013,8 @@
 			"PendientesPorcentaje": "36.49",
 			"Perdidos": "0",
 			"CantidadVacunados": "47",
-			"Latitud": "-14.79047835",
-			"Longitud": "-71.40414085"
+			"Latitud": -14.790479,
+			"Longitud": -71.404144
 		},
 		{
 			"IdEstablecimiento": "7111",
@@ -2069,8 +2041,8 @@
 			"PendientesPorcentaje": "51.98",
 			"Perdidos": "0",
 			"CantidadVacunados": "85",
-			"Latitud": "-14.79064072",
-			"Longitud": "-71.40406571"
+			"Latitud": -14.790641,
+			"Longitud": -71.40407
 		},
 		{
 			"IdEstablecimiento": "11721",
@@ -2097,8 +2069,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-14.792545",
-			"Longitud": "-71.41293167"
+			"Latitud": -14.792545,
+			"Longitud": -71.41293
 		},
 		{
 			"IdEstablecimiento": "3441",
@@ -2125,8 +2097,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "337",
-			"Latitud": "-14.82739",
-			"Longitud": "-74.94265667"
+			"Latitud": -14.82739,
+			"Longitud": -74.94266
 		},
 		{
 			"IdEstablecimiento": "3154",
@@ -2153,8 +2125,8 @@
 			"PendientesPorcentaje": "15.94",
 			"Perdidos": "0",
 			"CantidadVacunados": "174",
-			"Latitud": "-14.88279167",
-			"Longitud": "-70.58784331"
+			"Latitud": -14.8827915,
+			"Longitud": -70.587845
 		},
 		{
 			"IdEstablecimiento": "1472",
@@ -2181,8 +2153,8 @@
 			"PendientesPorcentaje": "15.49",
 			"Perdidos": "0",
 			"CantidadVacunados": "60",
-			"Latitud": "-9.72803333",
-			"Longitud": "-77.453195"
+			"Latitud": -9.728033,
+			"Longitud": -77.45319
 		},
 		{
 			"IdEstablecimiento": "1493",
@@ -2209,8 +2181,8 @@
 			"PendientesPorcentaje": "17.24",
 			"Perdidos": "0",
 			"CantidadVacunados": "24",
-			"Latitud": "-10.14750333",
-			"Longitud": "-77.157115"
+			"Latitud": -10.147503,
+			"Longitud": -77.15711
 		},
 		{
 			"IdEstablecimiento": "5363",
@@ -2237,8 +2209,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "40",
-			"Latitud": "-7.15162358",
-			"Longitud": "-77.70568964"
+			"Latitud": -7.1516237,
+			"Longitud": -77.70569
 		},
 		{
 			"IdEstablecimiento": "6896",
@@ -2265,8 +2237,8 @@
 			"PendientesPorcentaje": "25.17",
 			"Perdidos": "0",
 			"CantidadVacunados": "113",
-			"Latitud": "-7.18143172",
-			"Longitud": "-76.73532961"
+			"Latitud": -7.181432,
+			"Longitud": -76.73533
 		},
 		{
 			"IdEstablecimiento": "22481",
@@ -2293,8 +2265,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-7.17654997",
-			"Longitud": "-76.72845577"
+			"Latitud": -7.17655,
+			"Longitud": -76.728455
 		},
 		{
 			"IdEstablecimiento": "2638",
@@ -2321,8 +2293,8 @@
 			"PendientesPorcentaje": "10.26",
 			"Perdidos": "0",
 			"CantidadVacunados": "35",
-			"Latitud": "-13.64197833",
-			"Longitud": "-73.09047"
+			"Latitud": -13.641978,
+			"Longitud": -73.09047
 		},
 		{
 			"IdEstablecimiento": "3197",
@@ -2349,8 +2321,8 @@
 			"PendientesPorcentaje": "1.75",
 			"Perdidos": "0",
 			"CantidadVacunados": "56",
-			"Latitud": "-15.97679333",
-			"Longitud": "-69.79381333"
+			"Latitud": -15.976793,
+			"Longitud": -69.793816
 		},
 		{
 			"IdEstablecimiento": "3279",
@@ -2377,8 +2349,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-15.29940903",
-			"Longitud": "-69.98018247"
+			"Latitud": -15.299409,
+			"Longitud": -69.98018
 		},
 		{
 			"IdEstablecimiento": "1795",
@@ -2405,8 +2377,8 @@
 			"PendientesPorcentaje": "29.49",
 			"Perdidos": "0",
 			"CantidadVacunados": "55",
-			"Latitud": "-8.55279302",
-			"Longitud": "-77.63220171"
+			"Latitud": -8.552793,
+			"Longitud": -77.6322
 		},
 		{
 			"IdEstablecimiento": "839",
@@ -2433,8 +2405,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "84",
-			"Latitud": "-9.82463333",
-			"Longitud": "-76.800955"
+			"Latitud": -9.824634,
+			"Longitud": -76.80096
 		},
 		{
 			"IdEstablecimiento": "1734",
@@ -2461,8 +2433,8 @@
 			"PendientesPorcentaje": "26.67",
 			"Perdidos": "0",
 			"CantidadVacunados": "11",
-			"Latitud": "-9.55940277",
-			"Longitud": "-77.89104101"
+			"Latitud": -9.559402,
+			"Longitud": -77.891045
 		},
 		{
 			"IdEstablecimiento": "15114",
@@ -2489,8 +2461,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-9.51791",
-			"Longitud": "-77.53094167"
+			"Latitud": -9.51791,
+			"Longitud": -77.530945
 		},
 		{
 			"IdEstablecimiento": "3064",
@@ -2517,8 +2489,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "7",
-			"Latitud": "-15.01614833",
-			"Longitud": "-69.36378833"
+			"Latitud": -15.016149,
+			"Longitud": -69.363785
 		},
 		{
 			"IdEstablecimiento": "2936",
@@ -2545,8 +2517,8 @@
 			"PendientesPorcentaje": "30.43",
 			"Perdidos": "0",
 			"CantidadVacunados": "16",
-			"Latitud": "-14.79173974",
-			"Longitud": "-70.3562302"
+			"Latitud": -14.791739,
+			"Longitud": -70.35623
 		},
 		{
 			"IdEstablecimiento": "1118",
@@ -2573,8 +2545,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "42",
-			"Latitud": "-9.84807667",
-			"Longitud": "-75.016225"
+			"Latitud": -9.848077,
+			"Longitud": -75.01623
 		},
 		{
 			"IdEstablecimiento": "3030",
@@ -2601,8 +2573,8 @@
 			"PendientesPorcentaje": "38.3",
 			"Perdidos": "0",
 			"CantidadVacunados": "87",
-			"Latitud": "-16.08276041",
-			"Longitud": "-69.63772243"
+			"Latitud": -16.08276,
+			"Longitud": -69.637726
 		},
 		{
 			"IdEstablecimiento": "7289",
@@ -2629,8 +2601,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-6.74969922",
-			"Longitud": "-79.70549219"
+			"Latitud": -6.749699,
+			"Longitud": -79.70549
 		},
 		{
 			"IdEstablecimiento": "4978",
@@ -2657,8 +2629,8 @@
 			"PendientesPorcentaje": "5.45",
 			"Perdidos": "0",
 			"CantidadVacunados": "243",
-			"Latitud": "-6.37982477",
-			"Longitud": "-78.81547418"
+			"Latitud": -6.3798246,
+			"Longitud": -78.815475
 		},
 		{
 			"IdEstablecimiento": "6488",
@@ -2685,8 +2657,8 @@
 			"PendientesPorcentaje": "36.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "16",
-			"Latitud": "-6.51317333",
-			"Longitud": "-76.73925"
+			"Latitud": -6.513173,
+			"Longitud": -76.73925
 		},
 		{
 			"IdEstablecimiento": "979",
@@ -2713,8 +2685,8 @@
 			"PendientesPorcentaje": "17.14",
 			"Perdidos": "0",
 			"CantidadVacunados": "203",
-			"Latitud": "-10.68776302",
-			"Longitud": "-76.26187809"
+			"Latitud": -10.687763,
+			"Longitud": -76.26188
 		},
 		{
 			"IdEstablecimiento": "6355",
@@ -2741,8 +2713,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "150",
-			"Latitud": "-6.49390789",
-			"Longitud": "-76.3488037"
+			"Latitud": -6.493908,
+			"Longitud": -76.3488
 		},
 		{
 			"IdEstablecimiento": "4087",
@@ -2769,8 +2741,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "40",
-			"Latitud": "-12.40849167",
-			"Longitud": "-74.68123"
+			"Latitud": -12.408492,
+			"Longitud": -74.68123
 		},
 		{
 			"IdEstablecimiento": "1728",
@@ -2797,8 +2769,8 @@
 			"PendientesPorcentaje": "8.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "23",
-			"Latitud": "-9.51195923",
-			"Longitud": "-77.99678631"
+			"Latitud": -9.511959,
+			"Longitud": -77.99679
 		},
 		{
 			"IdEstablecimiento": "4508",
@@ -2825,8 +2797,8 @@
 			"PendientesPorcentaje": "14.21",
 			"Perdidos": "0",
 			"CantidadVacunados": "163",
-			"Latitud": "-7.63637854",
-			"Longitud": "-78.04762139"
+			"Latitud": -7.636379,
+			"Longitud": -78.04762
 		},
 		{
 			"IdEstablecimiento": "2607",
@@ -2853,8 +2825,8 @@
 			"PendientesPorcentaje": "20.51",
 			"Perdidos": "0",
 			"CantidadVacunados": "31",
-			"Latitud": "-14.07753496",
-			"Longitud": "-72.62751016"
+			"Latitud": -14.077535,
+			"Longitud": -72.62751
 		},
 		{
 			"IdEstablecimiento": "2609",
@@ -2881,8 +2853,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "51",
-			"Latitud": "-14.12031722",
-			"Longitud": "-72.25166115"
+			"Latitud": -14.120317,
+			"Longitud": -72.25166
 		},
 		{
 			"IdEstablecimiento": "6076",
@@ -2909,8 +2881,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "76",
-			"Latitud": "-12.2736699",
-			"Longitud": "-76.8695747"
+			"Latitud": -12.27367,
+			"Longitud": -76.869576
 		},
 		{
 			"IdEstablecimiento": "3412",
@@ -2937,8 +2909,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "612",
-			"Latitud": "-13.41651167",
-			"Longitud": "-76.126995"
+			"Latitud": -13.416512,
+			"Longitud": -76.12699
 		},
 		{
 			"IdEstablecimiento": "17071",
@@ -2965,8 +2937,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-13.4245949",
-			"Longitud": "-76.13509"
+			"Latitud": -13.424595,
+			"Longitud": -76.13509
 		},
 		{
 			"IdEstablecimiento": "2539",
@@ -2993,8 +2965,8 @@
 			"PendientesPorcentaje": "20.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "40",
-			"Latitud": "-13.30926003",
-			"Longitud": "-72.11568811"
+			"Latitud": -13.30926,
+			"Longitud": -72.115685
 		},
 		{
 			"IdEstablecimiento": "11718",
@@ -3021,8 +2993,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-13.308609",
-			"Longitud": "-72.112725"
+			"Latitud": -13.308609,
+			"Longitud": -72.112724
 		},
 		{
 			"IdEstablecimiento": "2340",
@@ -3049,8 +3021,8 @@
 			"PendientesPorcentaje": "7.69",
 			"Perdidos": "0",
 			"CantidadVacunados": "36",
-			"Latitud": "-13.32199764",
-			"Longitud": "-71.95949633"
+			"Latitud": -13.321998,
+			"Longitud": -71.959496
 		},
 		{
 			"IdEstablecimiento": "4367",
@@ -3077,8 +3049,8 @@
 			"PendientesPorcentaje": "14.63",
 			"Perdidos": "0",
 			"CantidadVacunados": "315",
-			"Latitud": "-6.70239167",
-			"Longitud": "-79.90252333"
+			"Latitud": -6.7023916,
+			"Longitud": -79.90253
 		},
 		{
 			"IdEstablecimiento": "4370",
@@ -3105,8 +3077,8 @@
 			"PendientesPorcentaje": "1.22",
 			"Perdidos": "0",
 			"CantidadVacunados": "81",
-			"Latitud": "-6.69581039",
-			"Longitud": "-79.90944934"
+			"Latitud": -6.6958103,
+			"Longitud": -79.90945
 		},
 		{
 			"IdEstablecimiento": "755",
@@ -3133,8 +3105,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "136",
-			"Latitud": "-9.91845739",
-			"Longitud": "-76.22713844"
+			"Latitud": -9.918457,
+			"Longitud": -76.227135
 		},
 		{
 			"IdEstablecimiento": "756",
@@ -3161,8 +3133,8 @@
 			"PendientesPorcentaje": "0.45",
 			"Perdidos": "0",
 			"CantidadVacunados": "220",
-			"Latitud": "-9.94318605",
-			"Longitud": "-76.2420515"
+			"Latitud": -9.943186,
+			"Longitud": -76.24205
 		},
 		{
 			"IdEstablecimiento": "12896",
@@ -3189,8 +3161,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-9.937735",
-			"Longitud": "-76.239595"
+			"Latitud": -9.937735,
+			"Longitud": -76.23959
 		},
 		{
 			"IdEstablecimiento": "1133",
@@ -3217,8 +3189,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "34",
-			"Latitud": "-10.18735966",
-			"Longitud": "-75.15109206"
+			"Latitud": -10.18736,
+			"Longitud": -75.15109
 		},
 		{
 			"IdEstablecimiento": "754",
@@ -3245,8 +3217,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "694",
-			"Latitud": "-9.927955",
-			"Longitud": "-76.236176"
+			"Latitud": -9.927955,
+			"Longitud": -76.236176
 		},
 		{
 			"IdEstablecimiento": "3999",
@@ -3273,8 +3245,8 @@
 			"PendientesPorcentaje": "4.65",
 			"Perdidos": "0",
 			"CantidadVacunados": "41",
-			"Latitud": "-13.28298531",
-			"Longitud": "-75.31834403"
+			"Latitud": -13.282986,
+			"Longitud": -75.318344
 		},
 		{
 			"IdEstablecimiento": "3915",
@@ -3301,8 +3273,8 @@
 			"PendientesPorcentaje": "32.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "85",
-			"Latitud": "-12.84469274",
-			"Longitud": "-74.57147377"
+			"Latitud": -12.844693,
+			"Longitud": -74.57147
 		},
 		{
 			"IdEstablecimiento": "2420",
@@ -3329,8 +3301,8 @@
 			"PendientesPorcentaje": "22.46",
 			"Perdidos": "0",
 			"CantidadVacunados": "214",
-			"Latitud": "-12.86456688",
-			"Longitud": "-72.69071169"
+			"Latitud": -12.864567,
+			"Longitud": -72.69071
 		},
 		{
 			"IdEstablecimiento": "9686",
@@ -3357,8 +3329,8 @@
 			"PendientesPorcentaje": "33.87",
 			"Perdidos": "0",
 			"CantidadVacunados": "41",
-			"Latitud": "-12.85834",
-			"Longitud": "-72.6941"
+			"Latitud": -12.85834,
+			"Longitud": -72.6941
 		},
 		{
 			"IdEstablecimiento": "6031",
@@ -3385,8 +3357,8 @@
 			"PendientesPorcentaje": "19.67",
 			"Perdidos": "0",
 			"CantidadVacunados": "49",
-			"Latitud": "-12.94875313",
-			"Longitud": "-76.38282128"
+			"Latitud": -12.948753,
+			"Longitud": -76.38282
 		},
 		{
 			"IdEstablecimiento": "3852",
@@ -3413,8 +3385,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "63",
-			"Latitud": "-12.77531889",
-			"Longitud": "-74.9972611"
+			"Latitud": -12.775319,
+			"Longitud": -74.99726
 		},
 		{
 			"IdEstablecimiento": "10034",
@@ -3441,8 +3413,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.7832573",
-			"Longitud": "-74.9890025"
+			"Latitud": -12.7832575,
+			"Longitud": -74.989006
 		},
 		{
 			"IdEstablecimiento": "5811",
@@ -3469,8 +3441,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-11.7747191",
-			"Longitud": "-77.1727247"
+			"Latitud": -11.774719,
+			"Longitud": -77.17272
 		},
 		{
 			"IdEstablecimiento": "2498",
@@ -3497,8 +3469,8 @@
 			"PendientesPorcentaje": "28.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "18",
-			"Latitud": "-13.76483505",
-			"Longitud": "-71.84538813"
+			"Latitud": -13.764835,
+			"Longitud": -71.84539
 		},
 		{
 			"IdEstablecimiento": "4128",
@@ -3525,8 +3497,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "571",
-			"Latitud": "-13.65777423",
-			"Longitud": "-73.38199121"
+			"Latitud": -13.657774,
+			"Longitud": -73.38199
 		},
 		{
 			"IdEstablecimiento": "14058",
@@ -3553,8 +3525,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-13.65753852",
-			"Longitud": "-73.41220289"
+			"Latitud": -13.657538,
+			"Longitud": -73.4122
 		},
 		{
 			"IdEstablecimiento": "4174",
@@ -3581,8 +3553,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "96",
-			"Latitud": "-13.6523968",
-			"Longitud": "-73.36305734"
+			"Latitud": -13.652397,
+			"Longitud": -73.36306
 		},
 		{
 			"IdEstablecimiento": "2522",
@@ -3609,8 +3581,8 @@
 			"PendientesPorcentaje": "35.71",
 			"Perdidos": "0",
 			"CantidadVacunados": "36",
-			"Latitud": "-13.68518741",
-			"Longitud": "-71.62380047"
+			"Latitud": -13.685187,
+			"Longitud": -71.6238
 		},
 		{
 			"IdEstablecimiento": "4199",
@@ -3637,8 +3609,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "30",
-			"Latitud": "-13.65727131",
-			"Longitud": "-73.49410174"
+			"Latitud": -13.657271,
+			"Longitud": -73.4941
 		},
 		{
 			"IdEstablecimiento": "3333",
@@ -3665,8 +3637,8 @@
 			"PendientesPorcentaje": "45.74",
 			"Perdidos": "0",
 			"CantidadVacunados": "70",
-			"Latitud": "-14.32221625",
-			"Longitud": "-69.46652328"
+			"Latitud": -14.322216,
+			"Longitud": -69.46652
 		},
 		{
 			"IdEstablecimiento": "3327",
@@ -3693,8 +3665,8 @@
 			"PendientesPorcentaje": "42.86",
 			"Perdidos": "0",
 			"CantidadVacunados": "8",
-			"Latitud": "-14.21937094",
-			"Longitud": "-69.15375588"
+			"Latitud": -14.219371,
+			"Longitud": -69.153755
 		},
 		{
 			"IdEstablecimiento": "2405",
@@ -3721,8 +3693,8 @@
 			"PendientesPorcentaje": "25.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "21",
-			"Latitud": "-14.31234",
-			"Longitud": "-71.68845333"
+			"Latitud": -14.31234,
+			"Longitud": -71.68845
 		},
 		{
 			"IdEstablecimiento": "2615",
@@ -3749,8 +3721,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "33",
-			"Latitud": "-14.21554744",
-			"Longitud": "-72.18892319"
+			"Latitud": -14.215548,
+			"Longitud": -72.18893
 		},
 		{
 			"IdEstablecimiento": "4164",
@@ -3777,8 +3749,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "34",
-			"Latitud": "-14.18381124",
-			"Longitud": "-73.54697922"
+			"Latitud": -14.183811,
+			"Longitud": -73.54698
 		},
 		{
 			"IdEstablecimiento": "2447",
@@ -3805,8 +3777,8 @@
 			"PendientesPorcentaje": "63.16",
 			"Perdidos": "0",
 			"CantidadVacunados": "7",
-			"Latitud": "-11.71830949",
-			"Longitud": "-72.94518369"
+			"Latitud": -11.718309,
+			"Longitud": -72.94518
 		},
 		{
 			"IdEstablecimiento": "7367",
@@ -3833,8 +3805,8 @@
 			"PendientesPorcentaje": "15.64",
 			"Perdidos": "0",
 			"CantidadVacunados": "561",
-			"Latitud": "-11.11552309",
-			"Longitud": "-77.60782172"
+			"Latitud": -11.115523,
+			"Longitud": -77.60782
 		},
 		{
 			"IdEstablecimiento": "14367",
@@ -3861,8 +3833,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-11.1133442",
-			"Longitud": "-77.6091848"
+			"Latitud": -11.113344,
+			"Longitud": -77.609184
 		},
 		{
 			"IdEstablecimiento": "354",
@@ -3889,8 +3861,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "93",
-			"Latitud": "-11.1193113",
-			"Longitud": "-75.35392222"
+			"Latitud": -11.119311,
+			"Longitud": -75.35392
 		},
 		{
 			"IdEstablecimiento": "2696",
@@ -3917,8 +3889,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "334",
-			"Latitud": "-12.60136167",
-			"Longitud": "-69.18308833"
+			"Latitud": -12.601361,
+			"Longitud": -69.18309
 		},
 		{
 			"IdEstablecimiento": "10125",
@@ -3945,8 +3917,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.58139667",
-			"Longitud": "-69.19880167"
+			"Latitud": -12.581397,
+			"Longitud": -69.1988
 		},
 		{
 			"IdEstablecimiento": "3795",
@@ -3973,8 +3945,8 @@
 			"PendientesPorcentaje": "3.33",
 			"Perdidos": "0",
 			"CantidadVacunados": "58",
-			"Latitud": "-12.94195",
-			"Longitud": "-74.0176"
+			"Latitud": -12.94195,
+			"Longitud": -74.0176
 		},
 		{
 			"IdEstablecimiento": "2468",
@@ -4001,8 +3973,8 @@
 			"PendientesPorcentaje": "39.2",
 			"Perdidos": "0",
 			"CantidadVacunados": "76",
-			"Latitud": "-12.61694142",
-			"Longitud": "-73.79299422"
+			"Latitud": -12.616941,
+			"Longitud": -73.79299
 		},
 		{
 			"IdEstablecimiento": "2493",
@@ -4029,8 +4001,8 @@
 			"PendientesPorcentaje": "53.09",
 			"Perdidos": "0",
 			"CantidadVacunados": "38",
-			"Latitud": "-12.52228",
-			"Longitud": "-73.829205"
+			"Latitud": -12.52228,
+			"Longitud": -73.82921
 		},
 		{
 			"IdEstablecimiento": "9999169",
@@ -4057,8 +4029,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.20355121",
-			"Longitud": "-73.8271024"
+			"Latitud": -12.203551,
+			"Longitud": -73.8271
 		},
 		{
 			"IdEstablecimiento": "4142",
@@ -4085,8 +4057,8 @@
 			"PendientesPorcentaje": "23.91",
 			"Perdidos": "0",
 			"CantidadVacunados": "35",
-			"Latitud": "-13.38791",
-			"Longitud": "-73.68757833"
+			"Latitud": -13.38791,
+			"Longitud": -73.68758
 		},
 		{
 			"IdEstablecimiento": "3768",
@@ -4113,8 +4085,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "51",
-			"Latitud": "-12.50771167",
-			"Longitud": "-73.862385"
+			"Latitud": -12.507711,
+			"Longitud": -73.86239
 		},
 		{
 			"IdEstablecimiento": "3665",
@@ -4141,8 +4113,8 @@
 			"PendientesPorcentaje": "21.43",
 			"Perdidos": "0",
 			"CantidadVacunados": "22",
-			"Latitud": "-12.76943",
-			"Longitud": "-74.25808167"
+			"Latitud": -12.76943,
+			"Longitud": -74.25808
 		},
 		{
 			"IdEstablecimiento": "3743",
@@ -4169,8 +4141,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "31",
-			"Latitud": "-12.41615833",
-			"Longitud": "-73.90994667"
+			"Latitud": -12.416159,
+			"Longitud": -73.90995
 		},
 		{
 			"IdEstablecimiento": "3747",
@@ -4197,8 +4169,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "27",
-			"Latitud": "-12.76789",
-			"Longitud": "-73.653605"
+			"Latitud": -12.76789,
+			"Longitud": -73.6536
 		},
 		{
 			"IdEstablecimiento": "3790",
@@ -4225,8 +4197,8 @@
 			"PendientesPorcentaje": "0.79",
 			"Perdidos": "0",
 			"CantidadVacunados": "126",
-			"Latitud": "-13.01310667",
-			"Longitud": "-73.97698"
+			"Latitud": -13.013106,
+			"Longitud": -73.97698
 		},
 		{
 			"IdEstablecimiento": "1093",
@@ -4253,8 +4225,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "26",
-			"Latitud": "-10.06750554",
-			"Longitud": "-75.55137947"
+			"Latitud": -10.067506,
+			"Longitud": -75.55138
 		},
 		{
 			"IdEstablecimiento": "1156",
@@ -4281,8 +4253,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "50",
-			"Latitud": "-10.30006",
-			"Longitud": "-74.938535"
+			"Latitud": -10.30006,
+			"Longitud": -74.93854
 		},
 		{
 			"IdEstablecimiento": "4220",
@@ -4309,8 +4281,8 @@
 			"PendientesPorcentaje": "26.98",
 			"Perdidos": "0",
 			"CantidadVacunados": "46",
-			"Latitud": "-5.66344342",
-			"Longitud": "-78.67719224"
+			"Latitud": -5.6634436,
+			"Longitud": -78.67719
 		},
 		{
 			"IdEstablecimiento": "671",
@@ -4337,8 +4309,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "95",
-			"Latitud": "-11.92220884",
-			"Longitud": "-75.31124063"
+			"Latitud": -11.922209,
+			"Longitud": -75.31124
 		},
 		{
 			"IdEstablecimiento": "37519",
@@ -4365,8 +4337,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "15",
-			"Latitud": "-11.90488269",
-			"Longitud": "-75.32499899"
+			"Latitud": -11.904882,
+			"Longitud": -75.325
 		},
 		{
 			"IdEstablecimiento": "2304",
@@ -4393,8 +4365,8 @@
 			"PendientesPorcentaje": "14.32",
 			"Perdidos": "0",
 			"CantidadVacunados": "646",
-			"Latitud": "-13.53083729",
-			"Longitud": "-71.97558395"
+			"Latitud": -13.530837,
+			"Longitud": -71.975586
 		},
 		{
 			"IdEstablecimiento": "2305",
@@ -4421,8 +4393,8 @@
 			"PendientesPorcentaje": "27.91",
 			"Perdidos": "0",
 			"CantidadVacunados": "62",
-			"Latitud": "-13.5254705",
-			"Longitud": "-71.97891022"
+			"Latitud": -13.525471,
+			"Longitud": -71.97891
 		},
 		{
 			"IdEstablecimiento": "4180",
@@ -4449,8 +4421,8 @@
 			"PendientesPorcentaje": "17.24",
 			"Perdidos": "0",
 			"CantidadVacunados": "24",
-			"Latitud": "-13.69086623",
-			"Longitud": "-73.12014529"
+			"Latitud": -13.690866,
+			"Longitud": -73.12015
 		},
 		{
 			"IdEstablecimiento": "11707",
@@ -4477,8 +4449,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-13.5244891",
-			"Longitud": "-71.9594642"
+			"Latitud": -13.524489,
+			"Longitud": -71.959465
 		},
 		{
 			"IdEstablecimiento": "4033",
@@ -4505,8 +4477,8 @@
 			"PendientesPorcentaje": "28.95",
 			"Perdidos": "0",
 			"CantidadVacunados": "27",
-			"Latitud": "-13.603555",
-			"Longitud": "-75.35316"
+			"Latitud": -13.603555,
+			"Longitud": -75.35316
 		},
 		{
 			"IdEstablecimiento": "2535",
@@ -4533,8 +4505,8 @@
 			"PendientesPorcentaje": "32.56",
 			"Perdidos": "0",
 			"CantidadVacunados": "29",
-			"Latitud": "-13.62682086",
-			"Longitud": "-71.38697552"
+			"Latitud": -13.626821,
+			"Longitud": -71.38698
 		},
 		{
 			"IdEstablecimiento": "8596",
@@ -4561,8 +4533,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.09074703",
-			"Longitud": "-77.01882957"
+			"Latitud": -12.090747,
+			"Longitud": -77.01883
 		},
 		{
 			"IdEstablecimiento": "8747",
@@ -4589,8 +4561,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0981344",
-			"Longitud": "-77.0534669"
+			"Latitud": -12.098134,
+			"Longitud": -77.05347
 		},
 		{
 			"IdEstablecimiento": "8751",
@@ -4617,8 +4589,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.09036833",
-			"Longitud": "-77.01813667"
+			"Latitud": -12.090368,
+			"Longitud": -77.018135
 		},
 		{
 			"IdEstablecimiento": "10210",
@@ -4645,8 +4617,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.09024905",
-			"Longitud": "-77.01684303"
+			"Latitud": -12.090249,
+			"Longitud": -77.016846
 		},
 		{
 			"IdEstablecimiento": "10650",
@@ -4673,8 +4645,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.100626",
-			"Longitud": "-77.0194727"
+			"Latitud": -12.100626,
+			"Longitud": -77.01947
 		},
 		{
 			"IdEstablecimiento": "11085",
@@ -4701,8 +4673,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.090915",
-			"Longitud": "-77.028305"
+			"Latitud": -12.090915,
+			"Longitud": -77.028305
 		},
 		{
 			"IdEstablecimiento": "6193",
@@ -4729,8 +4701,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "57",
-			"Latitud": "-12.0886944",
-			"Longitud": "-77.0686271"
+			"Latitud": -12.088695,
+			"Longitud": -77.06863
 		},
 		{
 			"IdEstablecimiento": "6211",
@@ -4757,8 +4729,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.098705",
-			"Longitud": "-77.065756"
+			"Latitud": -12.098705,
+			"Longitud": -77.06576
 		},
 		{
 			"IdEstablecimiento": "10093",
@@ -4785,8 +4757,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0917981",
-			"Longitud": "-77.0086722"
+			"Latitud": -12.091798,
+			"Longitud": -77.008675
 		},
 		{
 			"IdEstablecimiento": "15226",
@@ -4813,8 +4785,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.08939693",
-			"Longitud": "-77.00737837"
+			"Latitud": -12.089396,
+			"Longitud": -77.00738
 		},
 		{
 			"IdEstablecimiento": "15544",
@@ -4841,8 +4813,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.1059423",
-			"Longitud": "-77.0015215"
+			"Latitud": -12.105943,
+			"Longitud": -77.00152
 		},
 		{
 			"IdEstablecimiento": "24194",
@@ -4869,8 +4841,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.08614598",
-			"Longitud": "-76.99229181"
+			"Latitud": -12.086146,
+			"Longitud": -76.992294
 		},
 		{
 			"IdEstablecimiento": "8963",
@@ -4897,8 +4869,8 @@
 			"PendientesPorcentaje": "47.06",
 			"Perdidos": "0",
 			"CantidadVacunados": "108",
-			"Latitud": "-12.1521653",
-			"Longitud": "-77.0038897"
+			"Latitud": -12.152165,
+			"Longitud": -77.00389
 		},
 		{
 			"IdEstablecimiento": "11042",
@@ -4925,8 +4897,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0936767",
-			"Longitud": "-76.9674218"
+			"Latitud": -12.093677,
+			"Longitud": -76.96742
 		},
 		{
 			"IdEstablecimiento": "11557",
@@ -4953,8 +4925,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.10011333",
-			"Longitud": "-76.971695"
+			"Latitud": -12.100113,
+			"Longitud": -76.971695
 		},
 		{
 			"IdEstablecimiento": "12900",
@@ -4981,8 +4953,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.09496596",
-			"Longitud": "-76.96820787"
+			"Latitud": -12.094966,
+			"Longitud": -76.96821
 		},
 		{
 			"IdEstablecimiento": "13751",
@@ -5009,8 +4981,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.103083",
-			"Longitud": "-76.973925"
+			"Latitud": -12.103083,
+			"Longitud": -76.97392
 		},
 		{
 			"IdEstablecimiento": "18952",
@@ -5037,8 +5009,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.1013902",
-			"Longitud": "-76.970967"
+			"Latitud": -12.10139,
+			"Longitud": -76.97097
 		},
 		{
 			"IdEstablecimiento": "6208",
@@ -5065,8 +5037,8 @@
 			"PendientesPorcentaje": "40.98",
 			"Perdidos": "0",
 			"CantidadVacunados": "651",
-			"Latitud": "-12.0716016",
-			"Longitud": "-77.0610651"
+			"Latitud": -12.071602,
+			"Longitud": -77.061066
 		},
 		{
 			"IdEstablecimiento": "8749",
@@ -5093,8 +5065,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0731243",
-			"Longitud": "-77.059128"
+			"Latitud": -12.073124,
+			"Longitud": -77.05913
 		},
 		{
 			"IdEstablecimiento": "6333",
@@ -5121,8 +5093,8 @@
 			"PendientesPorcentaje": "40.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "12",
-			"Latitud": "-6.10724833",
-			"Longitud": "-76.92345167"
+			"Latitud": -6.1072483,
+			"Longitud": -76.923454
 		},
 		{
 			"IdEstablecimiento": "25",
@@ -5149,8 +5121,8 @@
 			"PendientesPorcentaje": "18.37",
 			"Perdidos": "0",
 			"CantidadVacunados": "120",
-			"Latitud": "-3.77442",
-			"Longitud": "-73.28655"
+			"Latitud": -3.77442,
+			"Longitud": -73.28655
 		},
 		{
 			"IdEstablecimiento": "1",
@@ -5177,8 +5149,8 @@
 			"PendientesPorcentaje": "23.54",
 			"Perdidos": "0",
 			"CantidadVacunados": "341",
-			"Latitud": "-3.762818",
-			"Longitud": "-73.253653"
+			"Latitud": -3.762818,
+			"Longitud": -73.253654
 		},
 		{
 			"IdEstablecimiento": "7",
@@ -5205,8 +5177,8 @@
 			"PendientesPorcentaje": "43.97",
 			"Perdidos": "0",
 			"CantidadVacunados": "65",
-			"Latitud": "-3.75344",
-			"Longitud": "-73.35446"
+			"Latitud": -3.75344,
+			"Longitud": -73.35446
 		},
 		{
 			"IdEstablecimiento": "12963",
@@ -5233,8 +5205,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-3.7436735",
-			"Longitud": "-73.2516326"
+			"Latitud": -3.7436736,
+			"Longitud": -73.25163
 		},
 		{
 			"IdEstablecimiento": "30285",
@@ -5261,8 +5233,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-3.76212057",
-			"Longitud": "-73.25337675"
+			"Latitud": -3.7621205,
+			"Longitud": -73.25338
 		},
 		{
 			"IdEstablecimiento": "1900",
@@ -5289,8 +5261,8 @@
 			"PendientesPorcentaje": "16.67",
 			"Perdidos": "0",
 			"CantidadVacunados": "55",
-			"Latitud": "-3.6804567",
-			"Longitud": "-80.67890552"
+			"Latitud": -3.6804566,
+			"Longitud": -80.67891
 		},
 		{
 			"IdEstablecimiento": "4835",
@@ -5317,8 +5289,8 @@
 			"PendientesPorcentaje": "15.01",
 			"Perdidos": "0",
 			"CantidadVacunados": "334",
-			"Latitud": "-6.23079333",
-			"Longitud": "-77.866165"
+			"Latitud": -6.2307935,
+			"Longitud": -77.866165
 		},
 		{
 			"IdEstablecimiento": "8824",
@@ -5345,8 +5317,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-6.23006667",
-			"Longitud": "-77.87277833"
+			"Latitud": -6.230067,
+			"Longitud": -77.87278
 		},
 		{
 			"IdEstablecimiento": "6404",
@@ -5373,8 +5345,8 @@
 			"PendientesPorcentaje": "6.98",
 			"Perdidos": "0",
 			"CantidadVacunados": "40",
-			"Latitud": "-6.38748361",
-			"Longitud": "-76.63525183"
+			"Latitud": -6.3874836,
+			"Longitud": -76.635254
 		},
 		{
 			"IdEstablecimiento": "6719",
@@ -5401,8 +5373,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-6.05595848",
-			"Longitud": "-77.1699847"
+			"Latitud": -6.0559583,
+			"Longitud": -77.16998
 		},
 		{
 			"IdEstablecimiento": "30707",
@@ -5429,8 +5401,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-6.0670575",
-			"Longitud": "-77.1717963"
+			"Latitud": -6.0670576,
+			"Longitud": -77.1718
 		},
 		{
 			"IdEstablecimiento": "6411",
@@ -5457,8 +5429,8 @@
 			"PendientesPorcentaje": "7.41",
 			"Perdidos": "0",
 			"CantidadVacunados": "25",
-			"Latitud": "-6.3314675",
-			"Longitud": "-76.28721808"
+			"Latitud": -6.3314676,
+			"Longitud": -76.28722
 		},
 		{
 			"IdEstablecimiento": "5142",
@@ -5485,8 +5457,8 @@
 			"PendientesPorcentaje": "20.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "68",
-			"Latitud": "-4.6000761",
-			"Longitud": "-77.86555388"
+			"Latitud": -4.600076,
+			"Longitud": -77.865555
 		},
 		{
 			"IdEstablecimiento": "6720",
@@ -5513,8 +5485,8 @@
 			"PendientesPorcentaje": "13.5",
 			"Perdidos": "0",
 			"CantidadVacunados": "519",
-			"Latitud": "-6.05572833",
-			"Longitud": "-76.972225"
+			"Latitud": -6.0557284,
+			"Longitud": -76.97222
 		},
 		{
 			"IdEstablecimiento": "22561",
@@ -5541,8 +5513,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-6.02889452",
-			"Longitud": "-76.96762706"
+			"Latitud": -6.0288944,
+			"Longitud": -76.96763
 		},
 		{
 			"IdEstablecimiento": "235",
@@ -5569,8 +5541,8 @@
 			"PendientesPorcentaje": "54.07",
 			"Perdidos": "0",
 			"CantidadVacunados": "62",
-			"Latitud": "-4.82733167",
-			"Longitud": "-76.56119833"
+			"Latitud": -4.8273315,
+			"Longitud": -76.561195
 		},
 		{
 			"IdEstablecimiento": "2269",
@@ -5597,8 +5569,8 @@
 			"PendientesPorcentaje": "14.08",
 			"Perdidos": "0",
 			"CantidadVacunados": "61",
-			"Latitud": "-5.5873218",
-			"Longitud": "-79.52119013"
+			"Latitud": -5.5873218,
+			"Longitud": -79.52119
 		},
 		{
 			"IdEstablecimiento": "2158",
@@ -5625,8 +5597,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "27",
-			"Latitud": "-5.464895",
-			"Longitud": "-80.745055"
+			"Latitud": -5.464895,
+			"Longitud": -80.745056
 		},
 		{
 			"IdEstablecimiento": "2244",
@@ -5653,8 +5625,8 @@
 			"PendientesPorcentaje": "3.03",
 			"Perdidos": "0",
 			"CantidadVacunados": "32",
-			"Latitud": "-5.40134024",
-			"Longitud": "-79.60559835"
+			"Latitud": -5.40134,
+			"Longitud": -79.6056
 		},
 		{
 			"IdEstablecimiento": "2221",
@@ -5681,8 +5653,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "38",
-			"Latitud": "-5.34185995",
-			"Longitud": "-79.83256594"
+			"Latitud": -5.34186,
+			"Longitud": -79.832565
 		},
 		{
 			"IdEstablecimiento": "2131",
@@ -5709,8 +5681,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "69",
-			"Latitud": "-5.40328463",
-			"Longitud": "-80.74872008"
+			"Latitud": -5.4032845,
+			"Longitud": -80.74872
 		},
 		{
 			"IdEstablecimiento": "12119",
@@ -5737,8 +5709,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-6.78766167",
-			"Longitud": "-79.879685"
+			"Latitud": -6.7876616,
+			"Longitud": -79.879684
 		},
 		{
 			"IdEstablecimiento": "185",
@@ -5765,8 +5737,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-6.91476797",
-			"Longitud": "-75.15865947"
+			"Latitud": -6.9147677,
+			"Longitud": -75.15866
 		},
 		{
 			"IdEstablecimiento": "1783",
@@ -5793,8 +5765,8 @@
 			"PendientesPorcentaje": "17.14",
 			"Perdidos": "0",
 			"CantidadVacunados": "29",
-			"Latitud": "-8.86597717",
-			"Longitud": "-77.35324609"
+			"Latitud": -8.865977,
+			"Longitud": -77.35325
 		},
 		{
 			"IdEstablecimiento": "6525",
@@ -5821,8 +5793,8 @@
 			"PendientesPorcentaje": "18.37",
 			"Perdidos": "0",
 			"CantidadVacunados": "40",
-			"Latitud": "-6.94190667",
-			"Longitud": "-76.76902167"
+			"Latitud": -6.9419065,
+			"Longitud": -76.76902
 		},
 		{
 			"IdEstablecimiento": "980",
@@ -5849,8 +5821,8 @@
 			"PendientesPorcentaje": "3.19",
 			"Perdidos": "0",
 			"CantidadVacunados": "91",
-			"Latitud": "-10.57623919",
-			"Longitud": "-75.40243233"
+			"Latitud": -10.57624,
+			"Longitud": -75.402435
 		},
 		{
 			"IdEstablecimiento": "11233",
@@ -5877,8 +5849,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-10.57447333",
-			"Longitud": "-75.39887333"
+			"Latitud": -10.574473,
+			"Longitud": -75.39887
 		},
 		{
 			"IdEstablecimiento": "981",
@@ -5905,8 +5877,8 @@
 			"PendientesPorcentaje": "8.63",
 			"Perdidos": "0",
 			"CantidadVacunados": "127",
-			"Latitud": "-10.73703831",
-			"Longitud": "-75.27326684"
+			"Latitud": -10.737039,
+			"Longitud": -75.27327
 		},
 		{
 			"IdEstablecimiento": "5499",
@@ -5933,8 +5905,8 @@
 			"PendientesPorcentaje": "11.54",
 			"Perdidos": "0",
 			"CantidadVacunados": "115",
-			"Latitud": "-10.72517233",
-			"Longitud": "-73.7573805"
+			"Latitud": -10.725172,
+			"Longitud": -73.75738
 		},
 		{
 			"IdEstablecimiento": "258",
@@ -5961,8 +5933,8 @@
 			"PendientesPorcentaje": "10.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "9",
-			"Latitud": "-2.80377333",
-			"Longitud": "-76.46119667"
+			"Latitud": -2.8037734,
+			"Longitud": -76.4612
 		},
 		{
 			"IdEstablecimiento": "105",
@@ -5989,8 +5961,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "15",
-			"Latitud": "-3.806327",
-			"Longitud": "-75.060695"
+			"Latitud": -3.806327,
+			"Longitud": -75.06069
 		},
 		{
 			"IdEstablecimiento": "66",
@@ -6017,8 +5989,8 @@
 			"PendientesPorcentaje": "19.57",
 			"Perdidos": "0",
 			"CantidadVacunados": "37",
-			"Latitud": "-2.48939688",
-			"Longitud": "-73.67675328"
+			"Latitud": -2.4893968,
+			"Longitud": -73.67675
 		},
 		{
 			"IdEstablecimiento": "432",
@@ -6045,8 +6017,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "271",
-			"Latitud": "-11.24928",
-			"Longitud": "-74.6386"
+			"Latitud": -11.24928,
+			"Longitud": -74.6386
 		},
 		{
 			"IdEstablecimiento": "3974",
@@ -6073,8 +6045,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "70",
-			"Latitud": "-12.73792752",
-			"Longitud": "-74.38715448"
+			"Latitud": -12.737927,
+			"Longitud": -74.38715
 		},
 		{
 			"IdEstablecimiento": "9123",
@@ -6101,8 +6073,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-11.54375214",
-			"Longitud": "-75.92992983"
+			"Latitud": -11.543752,
+			"Longitud": -75.92993
 		},
 		{
 			"IdEstablecimiento": "5732",
@@ -6129,8 +6101,8 @@
 			"PendientesPorcentaje": "32.19",
 			"Perdidos": "0",
 			"CantidadVacunados": "99",
-			"Latitud": "-11.87554",
-			"Longitud": "-77.0167279"
+			"Latitud": -11.87554,
+			"Longitud": -77.01673
 		},
 		{
 			"IdEstablecimiento": "37527",
@@ -6157,8 +6129,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-11.9010838",
-			"Longitud": "-77.0334828"
+			"Latitud": -11.901084,
+			"Longitud": -77.033485
 		},
 		{
 			"IdEstablecimiento": "1064",
@@ -6185,8 +6157,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "26",
-			"Latitud": "-10.75167921",
-			"Longitud": "-76.26218156"
+			"Latitud": -10.751679,
+			"Longitud": -76.262184
 		},
 		{
 			"IdEstablecimiento": "340",
@@ -6213,8 +6185,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "317",
-			"Latitud": "-10.92571391",
-			"Longitud": "-74.87183837"
+			"Latitud": -10.925714,
+			"Longitud": -74.87184
 		},
 		{
 			"IdEstablecimiento": "318",
@@ -6241,8 +6213,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "87",
-			"Latitud": "-10.946735",
-			"Longitud": "-75.22715"
+			"Latitud": -10.946735,
+			"Longitud": -75.22715
 		},
 		{
 			"IdEstablecimiento": "308",
@@ -6269,8 +6241,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "383",
-			"Latitud": "-11.07388333",
-			"Longitud": "-75.33759"
+			"Latitud": -11.073883,
+			"Longitud": -75.33759
 		},
 		{
 			"IdEstablecimiento": "8916",
@@ -6297,8 +6269,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-11.05836667",
-			"Longitud": "-75.3375"
+			"Latitud": -11.058367,
+			"Longitud": -75.3375
 		},
 		{
 			"IdEstablecimiento": "5372",
@@ -6325,8 +6297,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "73",
-			"Latitud": "-8.27191667",
-			"Longitud": "-77.298845"
+			"Latitud": -8.271916,
+			"Longitud": -77.29884
 		},
 		{
 			"IdEstablecimiento": "5236",
@@ -6353,8 +6325,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "74",
-			"Latitud": "-8.22173708",
-			"Longitud": "-78.97673867"
+			"Latitud": -8.221737,
+			"Longitud": -78.97674
 		},
 		{
 			"IdEstablecimiento": "1218",
@@ -6381,8 +6353,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "48",
-			"Latitud": "-10.49176147",
-			"Longitud": "-76.51557043"
+			"Latitud": -10.491761,
+			"Longitud": -76.51557
 		},
 		{
 			"IdEstablecimiento": "7364",
@@ -6409,8 +6381,8 @@
 			"PendientesPorcentaje": "22.78",
 			"Perdidos": "0",
 			"CantidadVacunados": "200",
-			"Latitud": "-10.79690607",
-			"Longitud": "-77.7172015"
+			"Latitud": -10.796906,
+			"Longitud": -77.7172
 		},
 		{
 			"IdEstablecimiento": "7363",
@@ -6437,8 +6409,8 @@
 			"PendientesPorcentaje": "17.3",
 			"Perdidos": "0",
 			"CantidadVacunados": "392",
-			"Latitud": "-10.75433068",
-			"Longitud": "-77.76436841"
+			"Latitud": -10.754331,
+			"Longitud": -77.764366
 		},
 		{
 			"IdEstablecimiento": "1741",
@@ -6465,8 +6437,8 @@
 			"PendientesPorcentaje": "1.83",
 			"Perdidos": "0",
 			"CantidadVacunados": "107",
-			"Latitud": "-10.06808931",
-			"Longitud": "-78.15571838"
+			"Latitud": -10.0680895,
+			"Longitud": -78.155716
 		},
 		{
 			"IdEstablecimiento": "193",
@@ -6493,8 +6465,8 @@
 			"PendientesPorcentaje": "51.72",
 			"Perdidos": "0",
 			"CantidadVacunados": "28",
-			"Latitud": "-5.22445921",
-			"Longitud": "-75.67552385"
+			"Latitud": -5.224459,
+			"Longitud": -75.67552
 		},
 		{
 			"IdEstablecimiento": "187",
@@ -6521,8 +6493,8 @@
 			"PendientesPorcentaje": "45.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "11",
-			"Latitud": "-5.8348331",
-			"Longitud": "-76.55968496"
+			"Latitud": -5.834833,
+			"Longitud": -76.559685
 		},
 		{
 			"IdEstablecimiento": "2479",
@@ -6549,8 +6521,8 @@
 			"PendientesPorcentaje": "22.22",
 			"Perdidos": "0",
 			"CantidadVacunados": "14",
-			"Latitud": "-13.09184291",
-			"Longitud": "-72.9332047"
+			"Latitud": -13.091843,
+			"Longitud": -72.933205
 		},
 		{
 			"IdEstablecimiento": "11231",
@@ -6577,8 +6549,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-10.68630333",
-			"Longitud": "-76.26519"
+			"Latitud": -10.686303,
+			"Longitud": -76.26519
 		},
 		{
 			"IdEstablecimiento": "1108",
@@ -6605,8 +6577,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "50",
-			"Latitud": "-10.77332713",
-			"Longitud": "-75.81087888"
+			"Latitud": -10.773327,
+			"Longitud": -75.81088
 		},
 		{
 			"IdEstablecimiento": "5303",
@@ -6633,8 +6605,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "56",
-			"Latitud": "-8.04216655",
-			"Longitud": "-78.48468033"
+			"Latitud": -8.042167,
+			"Longitud": -78.48468
 		},
 		{
 			"IdEstablecimiento": "5228",
@@ -6661,8 +6633,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "88",
-			"Latitud": "-8.08588907",
-			"Longitud": "-78.95695624"
+			"Latitud": -8.085889,
+			"Longitud": -78.956955
 		},
 		{
 			"IdEstablecimiento": "5255",
@@ -6689,8 +6661,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "58",
-			"Latitud": "-8.5422993",
-			"Longitud": "-78.68143606"
+			"Latitud": -8.542299,
+			"Longitud": -78.681435
 		},
 		{
 			"IdEstablecimiento": "705",
@@ -6717,8 +6689,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "109",
-			"Latitud": "-12.06084184",
-			"Longitud": "-75.23372274"
+			"Latitud": -12.060842,
+			"Longitud": -75.23373
 		},
 		{
 			"IdEstablecimiento": "7674",
@@ -6745,8 +6717,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.06330167",
-			"Longitud": "-75.21899167"
+			"Latitud": -12.063302,
+			"Longitud": -75.218994
 		},
 		{
 			"IdEstablecimiento": "8844",
@@ -6773,8 +6745,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0586665",
-			"Longitud": "-75.2208884"
+			"Latitud": -12.058666,
+			"Longitud": -75.22089
 		},
 		{
 			"IdEstablecimiento": "8924",
@@ -6801,8 +6773,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.05244",
-			"Longitud": "-75.22871667"
+			"Latitud": -12.05244,
+			"Longitud": -75.228714
 		},
 		{
 			"IdEstablecimiento": "3097",
@@ -6829,8 +6801,8 @@
 			"PendientesPorcentaje": "66.67",
 			"Perdidos": "0",
 			"CantidadVacunados": "5",
-			"Latitud": "-15.36594333",
-			"Longitud": "-69.49041"
+			"Latitud": -15.365943,
+			"Longitud": -69.49041
 		},
 		{
 			"IdEstablecimiento": "3132",
@@ -6857,8 +6829,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "17",
-			"Latitud": "-15.23522495",
-			"Longitud": "-70.59828667"
+			"Latitud": -15.235225,
+			"Longitud": -70.59829
 		},
 		{
 			"IdEstablecimiento": "1455",
@@ -6885,8 +6857,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "39",
-			"Latitud": "-15.21339402",
-			"Longitud": "-72.88637242"
+			"Latitud": -15.213394,
+			"Longitud": -72.886375
 		},
 		{
 			"IdEstablecimiento": "3126",
@@ -6913,8 +6885,8 @@
 			"PendientesPorcentaje": "67.74",
 			"Perdidos": "0",
 			"CantidadVacunados": "30",
-			"Latitud": "-15.36209971",
-			"Longitud": "-70.36606761"
+			"Latitud": -15.3621,
+			"Longitud": -70.366066
 		},
 		{
 			"IdEstablecimiento": "10850",
@@ -6941,8 +6913,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-15.36421167",
-			"Longitud": "-70.36700167"
+			"Latitud": -15.364212,
+			"Longitud": -70.367004
 		},
 		{
 			"IdEstablecimiento": "3078",
@@ -6969,8 +6941,8 @@
 			"PendientesPorcentaje": "66.67",
 			"Perdidos": "0",
 			"CantidadVacunados": "4",
-			"Latitud": "-15.23315667",
-			"Longitud": "-69.52936"
+			"Latitud": -15.233156,
+			"Longitud": -69.52936
 		},
 		{
 			"IdEstablecimiento": "3066",
@@ -6997,8 +6969,8 @@
 			"PendientesPorcentaje": "49.48",
 			"Perdidos": "0",
 			"CantidadVacunados": "98",
-			"Latitud": "-15.19916816",
-			"Longitud": "-69.76534525"
+			"Latitud": -15.199168,
+			"Longitud": -69.76534
 		},
 		{
 			"IdEstablecimiento": "3083",
@@ -7025,8 +6997,8 @@
 			"PendientesPorcentaje": "52.94",
 			"Perdidos": "0",
 			"CantidadVacunados": "8",
-			"Latitud": "-15.21469",
-			"Longitud": "-69.684125"
+			"Latitud": -15.21469,
+			"Longitud": -69.68413
 		},
 		{
 			"IdEstablecimiento": "2942",
@@ -7053,8 +7025,8 @@
 			"PendientesPorcentaje": "50.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "9",
-			"Latitud": "-15.10666513",
-			"Longitud": "-69.98977302"
+			"Latitud": -15.106665,
+			"Longitud": -69.98978
 		},
 		{
 			"IdEstablecimiento": "4246",
@@ -7081,8 +7053,8 @@
 			"PendientesPorcentaje": "23.91",
 			"Perdidos": "0",
 			"CantidadVacunados": "35",
-			"Latitud": "-6.03938",
-			"Longitud": "-79.13071"
+			"Latitud": -6.03938,
+			"Longitud": -79.13071
 		},
 		{
 			"IdEstablecimiento": "150",
@@ -7109,8 +7081,8 @@
 			"PendientesPorcentaje": "40.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "33",
-			"Latitud": "-5.06288155",
-			"Longitud": "-73.8569342"
+			"Latitud": -5.0628815,
+			"Longitud": -73.85693
 		},
 		{
 			"IdEstablecimiento": "365",
@@ -7137,8 +7109,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "313",
-			"Latitud": "-11.77722745",
-			"Longitud": "-75.4968676"
+			"Latitud": -11.777227,
+			"Longitud": -75.496864
 		},
 		{
 			"IdEstablecimiento": "1863",
@@ -7165,8 +7137,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "9",
-			"Latitud": "-8.98064624",
-			"Longitud": "-77.1851262"
+			"Latitud": -8.980646,
+			"Longitud": -77.18513
 		},
 		{
 			"IdEstablecimiento": "5041",
@@ -7193,8 +7165,8 @@
 			"PendientesPorcentaje": "22.73",
 			"Perdidos": "0",
 			"CantidadVacunados": "204",
-			"Latitud": "-5.63951591",
-			"Longitud": "-78.53075225"
+			"Latitud": -5.639516,
+			"Longitud": -78.530754
 		},
 		{
 			"IdEstablecimiento": "9061",
@@ -7221,8 +7193,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-5.63313044",
-			"Longitud": "-78.53341476"
+			"Latitud": -5.6331306,
+			"Longitud": -78.53342
 		},
 		{
 			"IdEstablecimiento": "6895",
@@ -7249,8 +7221,8 @@
 			"PendientesPorcentaje": "17.04",
 			"Perdidos": "0",
 			"CantidadVacunados": "672",
-			"Latitud": "-6.49453094",
-			"Longitud": "-76.34874546"
+			"Latitud": -6.494531,
+			"Longitud": -76.34875
 		},
 		{
 			"IdEstablecimiento": "8675",
@@ -7277,8 +7249,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-6.48652333",
-			"Longitud": "-76.361525"
+			"Latitud": -6.486523,
+			"Longitud": -76.36153
 		},
 		{
 			"IdEstablecimiento": "23749",
@@ -7305,8 +7277,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-6.4846528",
-			"Longitud": "-76.3640665"
+			"Latitud": -6.484653,
+			"Longitud": -76.36407
 		},
 		{
 			"IdEstablecimiento": "2946",
@@ -7333,8 +7305,8 @@
 			"PendientesPorcentaje": "11.11",
 			"Perdidos": "0",
 			"CantidadVacunados": "16",
-			"Latitud": "-15.03103755",
-			"Longitud": "-70.33883313"
+			"Latitud": -15.031037,
+			"Longitud": -70.33884
 		},
 		{
 			"IdEstablecimiento": "2933",
@@ -7361,8 +7333,8 @@
 			"PendientesPorcentaje": "4.55",
 			"Perdidos": "0",
 			"CantidadVacunados": "21",
-			"Latitud": "-15.13910628",
-			"Longitud": "-70.10582298"
+			"Latitud": -15.139107,
+			"Longitud": -70.10582
 		},
 		{
 			"IdEstablecimiento": "3456",
@@ -7389,8 +7361,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "108",
-			"Latitud": "-14.53089333",
-			"Longitud": "-75.18353333"
+			"Latitud": -14.530893,
+			"Longitud": -75.18353
 		},
 		{
 			"IdEstablecimiento": "3110",
@@ -7417,8 +7389,8 @@
 			"PendientesPorcentaje": "66.67",
 			"Perdidos": "0",
 			"CantidadVacunados": "3",
-			"Latitud": "-14.67765",
-			"Longitud": "-69.54115833"
+			"Latitud": -14.67765,
+			"Longitud": -69.54116
 		},
 		{
 			"IdEstablecimiento": "2948",
@@ -7445,8 +7417,8 @@
 			"PendientesPorcentaje": "52.38",
 			"Perdidos": "0",
 			"CantidadVacunados": "10",
-			"Latitud": "-14.77021",
-			"Longitud": "-69.95177645"
+			"Latitud": -14.77021,
+			"Longitud": -69.951775
 		},
 		{
 			"IdEstablecimiento": "3118",
@@ -7473,8 +7445,8 @@
 			"PendientesPorcentaje": "45.45",
 			"Perdidos": "0",
 			"CantidadVacunados": "18",
-			"Latitud": "-14.91585773",
-			"Longitud": "-69.8662378"
+			"Latitud": -14.915857,
+			"Longitud": -69.86624
 		},
 		{
 			"IdEstablecimiento": "3321",
@@ -7501,8 +7473,8 @@
 			"PendientesPorcentaje": "21.43",
 			"Perdidos": "0",
 			"CantidadVacunados": "11",
-			"Latitud": "-14.46813606",
-			"Longitud": "-69.53652074"
+			"Latitud": -14.468136,
+			"Longitud": -69.53652
 		},
 		{
 			"IdEstablecimiento": "7395",
@@ -7529,8 +7501,8 @@
 			"PendientesPorcentaje": "28.57",
 			"Perdidos": "0",
 			"CantidadVacunados": "20",
-			"Latitud": "-14.53354717",
-			"Longitud": "-71.3067295"
+			"Latitud": -14.533547,
+			"Longitud": -71.30673
 		},
 		{
 			"IdEstablecimiento": "2950",
@@ -7557,8 +7529,8 @@
 			"PendientesPorcentaje": "47.83",
 			"Perdidos": "0",
 			"CantidadVacunados": "12",
-			"Latitud": "-14.58475435",
-			"Longitud": "-70.31786015"
+			"Latitud": -14.584754,
+			"Longitud": -70.31786
 		},
 		{
 			"IdEstablecimiento": "2397",
@@ -7585,8 +7557,8 @@
 			"PendientesPorcentaje": "45.87",
 			"Perdidos": "0",
 			"CantidadVacunados": "59",
-			"Latitud": "-14.44840483",
-			"Longitud": "-72.08461227"
+			"Latitud": -14.448405,
+			"Longitud": -72.08461
 		},
 		{
 			"IdEstablecimiento": "2550",
@@ -7613,8 +7585,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "42",
-			"Latitud": "-14.36543154",
-			"Longitud": "-72.87842417"
+			"Latitud": -14.365432,
+			"Longitud": -72.878426
 		},
 		{
 			"IdEstablecimiento": "3356",
@@ -7641,8 +7613,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "914",
-			"Latitud": "-14.073575",
-			"Longitud": "-75.74336667"
+			"Latitud": -14.073575,
+			"Longitud": -75.74337
 		},
 		{
 			"IdEstablecimiento": "3357",
@@ -7669,8 +7641,8 @@
 			"PendientesPorcentaje": "6.67",
 			"Perdidos": "0",
 			"CantidadVacunados": "398",
-			"Latitud": "-14.05681167",
-			"Longitud": "-75.72981667"
+			"Latitud": -14.056811,
+			"Longitud": -75.72982
 		},
 		{
 			"IdEstablecimiento": "17072",
@@ -7697,8 +7669,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-14.071729",
-			"Longitud": "-75.7268699"
+			"Latitud": -14.071729,
+			"Longitud": -75.72687
 		},
 		{
 			"IdEstablecimiento": "22081",
@@ -7725,8 +7697,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-14.06558333",
-			"Longitud": "-75.73803833"
+			"Latitud": -14.065583,
+			"Longitud": -75.73804
 		},
 		{
 			"IdEstablecimiento": "2385",
@@ -7753,8 +7725,8 @@
 			"PendientesPorcentaje": "12.5",
 			"Perdidos": "0",
 			"CantidadVacunados": "28",
-			"Latitud": "-14.10087739",
-			"Longitud": "-71.43343619"
+			"Latitud": -14.100878,
+			"Longitud": -71.43343
 		},
 		{
 			"IdEstablecimiento": "2593",
@@ -7781,8 +7753,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "57",
-			"Latitud": "-14.10138715",
-			"Longitud": "-72.70206844"
+			"Latitud": -14.101387,
+			"Longitud": -72.70207
 		},
 		{
 			"IdEstablecimiento": "2567",
@@ -7809,8 +7781,8 @@
 			"PendientesPorcentaje": "35.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "39",
-			"Latitud": "-14.294165",
-			"Longitud": "-73.24451333"
+			"Latitud": -14.294165,
+			"Longitud": -73.244514
 		},
 		{
 			"IdEstablecimiento": "3145",
@@ -7837,8 +7809,8 @@
 			"PendientesPorcentaje": "16.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "21",
-			"Latitud": "-14.36311833",
-			"Longitud": "-70.02374667"
+			"Latitud": -14.363118,
+			"Longitud": -70.02375
 		},
 		{
 			"IdEstablecimiento": "2363",
@@ -7865,8 +7837,8 @@
 			"PendientesPorcentaje": "25.53",
 			"Perdidos": "0",
 			"CantidadVacunados": "35",
-			"Latitud": "-14.2221342",
-			"Longitud": "-71.4297373"
+			"Latitud": -14.222135,
+			"Longitud": -71.42974
 		},
 		{
 			"IdEstablecimiento": "2377",
@@ -7893,8 +7865,8 @@
 			"PendientesPorcentaje": "30.74",
 			"Perdidos": "0",
 			"CantidadVacunados": "179",
-			"Latitud": "-14.26562521",
-			"Longitud": "-71.22877733"
+			"Latitud": -14.265625,
+			"Longitud": -71.228775
 		},
 		{
 			"IdEstablecimiento": "2379",
@@ -7921,8 +7893,8 @@
 			"PendientesPorcentaje": "24.39",
 			"Perdidos": "0",
 			"CantidadVacunados": "31",
-			"Latitud": "-14.28850981",
-			"Longitud": "-71.22453318"
+			"Latitud": -14.288509,
+			"Longitud": -71.22453
 		},
 		{
 			"IdEstablecimiento": "11726",
@@ -7949,8 +7921,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-14.2657015",
-			"Longitud": "-71.22872075"
+			"Latitud": -14.265701,
+			"Longitud": -71.22872
 		},
 		{
 			"IdEstablecimiento": "2320",
@@ -7977,8 +7949,8 @@
 			"PendientesPorcentaje": "52.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "12",
-			"Latitud": "-14.03317667",
-			"Longitud": "-71.56901833"
+			"Latitud": -14.033176,
+			"Longitud": -71.569016
 		},
 		{
 			"IdEstablecimiento": "2568",
@@ -8005,8 +7977,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "33",
-			"Latitud": "-13.99103833",
-			"Longitud": "-73.171715"
+			"Latitud": -13.991038,
+			"Longitud": -73.171715
 		},
 		{
 			"IdEstablecimiento": "2623",
@@ -8033,8 +8005,8 @@
 			"PendientesPorcentaje": "1.54",
 			"Perdidos": "0",
 			"CantidadVacunados": "64",
-			"Latitud": "-13.94765337",
-			"Longitud": "-72.18093322"
+			"Latitud": -13.947654,
+			"Longitud": -72.18093
 		},
 		{
 			"IdEstablecimiento": "2537",
@@ -8061,8 +8033,8 @@
 			"PendientesPorcentaje": "31.25",
 			"Perdidos": "0",
 			"CantidadVacunados": "22",
-			"Latitud": "-13.82034063",
-			"Longitud": "-71.54147562"
+			"Latitud": -13.82034,
+			"Longitud": -71.54147
 		},
 		{
 			"IdEstablecimiento": "4155",
@@ -8089,8 +8061,8 @@
 			"PendientesPorcentaje": "22.86",
 			"Perdidos": "0",
 			"CantidadVacunados": "27",
-			"Latitud": "-13.75907203",
-			"Longitud": "-73.52718272"
+			"Latitud": -13.759072,
+			"Longitud": -73.52718
 		},
 		{
 			"IdEstablecimiento": "2645",
@@ -8117,8 +8089,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "30",
-			"Latitud": "-13.87116833",
-			"Longitud": "-72.76872333"
+			"Latitud": -13.871168,
+			"Longitud": -72.76872
 		},
 		{
 			"IdEstablecimiento": "3470",
@@ -8145,8 +8117,8 @@
 			"PendientesPorcentaje": "6.43",
 			"Perdidos": "0",
 			"CantidadVacunados": "393",
-			"Latitud": "-13.71460667",
-			"Longitud": "-76.18514"
+			"Latitud": -13.714606,
+			"Longitud": -76.18514
 		},
 		{
 			"IdEstablecimiento": "19689",
@@ -8173,8 +8145,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-13.7178156",
-			"Longitud": "-76.1968083"
+			"Latitud": -13.717815,
+			"Longitud": -76.19681
 		},
 		{
 			"IdEstablecimiento": "2972",
@@ -8201,8 +8173,8 @@
 			"PendientesPorcentaje": "26.39",
 			"Perdidos": "0",
 			"CantidadVacunados": "318",
-			"Latitud": "-14.071945",
-			"Longitud": "-70.42967167"
+			"Latitud": -14.071945,
+			"Longitud": -70.42967
 		},
 		{
 			"IdEstablecimiento": "2620",
@@ -8229,8 +8201,8 @@
 			"PendientesPorcentaje": "29.63",
 			"Perdidos": "0",
 			"CantidadVacunados": "19",
-			"Latitud": "-14.08662155",
-			"Longitud": "-72.1014587"
+			"Latitud": -14.086621,
+			"Longitud": -72.101456
 		},
 		{
 			"IdEstablecimiento": "3316",
@@ -8257,8 +8229,8 @@
 			"PendientesPorcentaje": "43.75",
 			"Perdidos": "0",
 			"CantidadVacunados": "9",
-			"Latitud": "-14.09152513",
-			"Longitud": "-69.24455098"
+			"Latitud": -14.091525,
+			"Longitud": -69.24455
 		},
 		{
 			"IdEstablecimiento": "2316",
@@ -8285,8 +8257,8 @@
 			"PendientesPorcentaje": "57.14",
 			"Perdidos": "0",
 			"CantidadVacunados": "12",
-			"Latitud": "-13.916675",
-			"Longitud": "-71.68282833"
+			"Latitud": -13.916675,
+			"Longitud": -71.68283
 		},
 		{
 			"IdEstablecimiento": "2612",
@@ -8313,8 +8285,8 @@
 			"PendientesPorcentaje": "44.44",
 			"Perdidos": "0",
 			"CantidadVacunados": "15",
-			"Latitud": "-13.83965821",
-			"Longitud": "-72.42982517"
+			"Latitud": -13.839658,
+			"Longitud": -72.429825
 		},
 		{
 			"IdEstablecimiento": "2610",
@@ -8341,8 +8313,8 @@
 			"PendientesPorcentaje": "24.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "19",
-			"Latitud": "-13.74713162",
-			"Longitud": "-72.35649609"
+			"Latitud": -13.747131,
+			"Longitud": -72.3565
 		},
 		{
 			"IdEstablecimiento": "2657",
@@ -8369,8 +8341,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "105",
-			"Latitud": "-13.62899",
-			"Longitud": "-72.88469667"
+			"Latitud": -13.62899,
+			"Longitud": -72.8847
 		},
 		{
 			"IdEstablecimiento": "7413",
@@ -8397,8 +8369,8 @@
 			"PendientesPorcentaje": "26.34",
 			"Perdidos": "0",
 			"CantidadVacunados": "400",
-			"Latitud": "-13.64034611",
-			"Longitud": "-72.8819806"
+			"Latitud": -13.640347,
+			"Longitud": -72.88198
 		},
 		{
 			"IdEstablecimiento": "14055",
@@ -8425,8 +8397,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-13.64184167",
-			"Longitud": "-72.89601667"
+			"Latitud": -13.641842,
+			"Longitud": -72.89602
 		},
 		{
 			"IdEstablecimiento": "2678",
@@ -8453,8 +8425,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "61",
-			"Latitud": "-13.62577844",
-			"Longitud": "-72.87335324"
+			"Latitud": -13.625778,
+			"Longitud": -72.87335
 		},
 		{
 			"IdEstablecimiento": "4186",
@@ -8481,8 +8453,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "40",
-			"Latitud": "-13.60911902",
-			"Longitud": "-73.34093778"
+			"Latitud": -13.609119,
+			"Longitud": -73.340935
 		},
 		{
 			"IdEstablecimiento": "3877",
@@ -8509,8 +8481,8 @@
 			"PendientesPorcentaje": "19.3",
 			"Perdidos": "0",
 			"CantidadVacunados": "46",
-			"Latitud": "-12.77285573",
-			"Longitud": "-74.84998231"
+			"Latitud": -12.772856,
+			"Longitud": -74.84998
 		},
 		{
 			"IdEstablecimiento": "3928",
@@ -8537,8 +8509,8 @@
 			"PendientesPorcentaje": "27.03",
 			"Perdidos": "0",
 			"CantidadVacunados": "54",
-			"Latitud": "-12.73464642",
-			"Longitud": "-74.67063474"
+			"Latitud": -12.734647,
+			"Longitud": -74.67063
 		},
 		{
 			"IdEstablecimiento": "6069",
@@ -8565,8 +8537,8 @@
 			"PendientesPorcentaje": "21.35",
 			"Perdidos": "0",
 			"CantidadVacunados": "70",
-			"Latitud": "-12.66358708",
-			"Longitud": "-76.63119615"
+			"Latitud": -12.663587,
+			"Longitud": -76.631195
 		},
 		{
 			"IdEstablecimiento": "8846",
@@ -8593,8 +8565,8 @@
 			"PendientesPorcentaje": "46.11",
 			"Perdidos": "0",
 			"CantidadVacunados": "2380",
-			"Latitud": "-12.0798682",
-			"Longitud": "-77.0402713"
+			"Latitud": -12.079868,
+			"Longitud": -77.04027
 		},
 		{
 			"IdEstablecimiento": "14569",
@@ -8621,8 +8593,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0839746",
-			"Longitud": "-77.0611078"
+			"Latitud": -12.083975,
+			"Longitud": -77.06111
 		},
 		{
 			"IdEstablecimiento": "24950",
@@ -8649,8 +8621,8 @@
 			"PendientesPorcentaje": "66.63",
 			"Perdidos": "0",
 			"CantidadVacunados": "301",
-			"Latitud": "-12.0871197",
-			"Longitud": "-77.0619786"
+			"Latitud": -12.08712,
+			"Longitud": -77.06198
 		},
 		{
 			"IdEstablecimiento": "25364",
@@ -8677,8 +8649,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.077661",
-			"Longitud": "-77.0530119"
+			"Latitud": -12.077661,
+			"Longitud": -77.05301
 		},
 		{
 			"IdEstablecimiento": "27063",
@@ -8705,8 +8677,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0768185",
-			"Longitud": "-77.0398868"
+			"Latitud": -12.076818,
+			"Longitud": -77.03989
 		},
 		{
 			"IdEstablecimiento": "2457",
@@ -8733,8 +8705,8 @@
 			"PendientesPorcentaje": "9.09",
 			"Perdidos": "0",
 			"CantidadVacunados": "20",
-			"Latitud": "-12.96355667",
-			"Longitud": "-72.66293333"
+			"Latitud": -12.963556,
+			"Longitud": -72.66293
 		},
 		{
 			"IdEstablecimiento": "7365",
@@ -8761,8 +8733,8 @@
 			"PendientesPorcentaje": "29.04",
 			"Perdidos": "0",
 			"CantidadVacunados": "391",
-			"Latitud": "-11.50329771",
-			"Longitud": "-77.21380309"
+			"Latitud": -11.503298,
+			"Longitud": -77.213806
 		},
 		{
 			"IdEstablecimiento": "9112",
@@ -8789,8 +8761,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-11.495495",
-			"Longitud": "-77.20024167"
+			"Latitud": -11.495495,
+			"Longitud": -77.20024
 		},
 		{
 			"IdEstablecimiento": "35470",
@@ -8817,8 +8789,8 @@
 			"PendientesPorcentaje": "22.05",
 			"Perdidos": "0",
 			"CantidadVacunados": "99",
-			"Latitud": "-13.53195",
-			"Longitud": "-71.9674626"
+			"Latitud": -13.53195,
+			"Longitud": -71.96746
 		},
 		{
 			"IdEstablecimiento": "2354",
@@ -8845,8 +8817,8 @@
 			"PendientesPorcentaje": "16.13",
 			"Perdidos": "0",
 			"CantidadVacunados": "26",
-			"Latitud": "-12.6845797",
-			"Longitud": "-72.27705896"
+			"Latitud": -12.68458,
+			"Longitud": -72.27706
 		},
 		{
 			"IdEstablecimiento": "3897",
@@ -8873,8 +8845,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "37",
-			"Latitud": "-12.56387695",
-			"Longitud": "-74.94993564"
+			"Latitud": -12.563877,
+			"Longitud": -74.949936
 		},
 		{
 			"IdEstablecimiento": "4192",
@@ -8901,8 +8873,8 @@
 			"PendientesPorcentaje": "2.53",
 			"Perdidos": "0",
 			"CantidadVacunados": "77",
-			"Latitud": "-13.65920002",
-			"Longitud": "-73.42997622"
+			"Latitud": -13.6592,
+			"Longitud": -73.42998
 		},
 		{
 			"IdEstablecimiento": "5988",
@@ -8929,8 +8901,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.1659155",
-			"Longitud": "-77.0202982"
+			"Latitud": -12.1659155,
+			"Longitud": -77.0203
 		},
 		{
 			"IdEstablecimiento": "5995",
@@ -8957,8 +8929,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.1887664",
-			"Longitud": "-77.0048744"
+			"Latitud": -12.1887665,
+			"Longitud": -77.004875
 		},
 		{
 			"IdEstablecimiento": "5997",
@@ -8985,8 +8957,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "86",
-			"Latitud": "-12.1948675",
-			"Longitud": "-77.0214915"
+			"Latitud": -12.194867,
+			"Longitud": -77.02149
 		},
 		{
 			"IdEstablecimiento": "6159",
@@ -9013,8 +8985,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "41",
-			"Latitud": "-12.166438",
-			"Longitud": "-77.0235903"
+			"Latitud": -12.166438,
+			"Longitud": -77.02359
 		},
 		{
 			"IdEstablecimiento": "7428",
@@ -9041,8 +9013,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.192758",
-			"Longitud": "-77.0037655"
+			"Latitud": -12.192758,
+			"Longitud": -77.00377
 		},
 		{
 			"IdEstablecimiento": "8116",
@@ -9069,8 +9041,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.1601295",
-			"Longitud": "-77.0189409"
+			"Latitud": -12.16013,
+			"Longitud": -77.01894
 		},
 		{
 			"IdEstablecimiento": "9798",
@@ -9097,8 +9069,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.16220614",
-			"Longitud": "-77.01971338"
+			"Latitud": -12.162206,
+			"Longitud": -77.019714
 		},
 		{
 			"IdEstablecimiento": "21983",
@@ -9125,8 +9097,8 @@
 			"PendientesPorcentaje": "40.08",
 			"Perdidos": "0",
 			"CantidadVacunados": "148",
-			"Latitud": "-12.1567124",
-			"Longitud": "-77.0190155"
+			"Latitud": -12.156713,
+			"Longitud": -77.01901
 		},
 		{
 			"IdEstablecimiento": "6138",
@@ -9153,8 +9125,8 @@
 			"PendientesPorcentaje": "2.78",
 			"Perdidos": "0",
 			"CantidadVacunados": "70",
-			"Latitud": "-12.2105625",
-			"Longitud": "-76.9072151"
+			"Latitud": -12.210563,
+			"Longitud": -76.90721
 		},
 		{
 			"IdEstablecimiento": "6148",
@@ -9181,8 +9153,8 @@
 			"PendientesPorcentaje": "96.97",
 			"Perdidos": "0",
 			"CantidadVacunados": "2",
-			"Latitud": "-12.1569104",
-			"Longitud": "-76.9365017"
+			"Latitud": -12.15691,
+			"Longitud": -76.9365
 		},
 		{
 			"IdEstablecimiento": "6149",
@@ -9209,8 +9181,8 @@
 			"PendientesPorcentaje": "1.82",
 			"Perdidos": "0",
 			"CantidadVacunados": "108",
-			"Latitud": "-12.147521",
-			"Longitud": "-76.950802"
+			"Latitud": -12.147521,
+			"Longitud": -76.950806
 		},
 		{
 			"IdEstablecimiento": "6150",
@@ -9237,8 +9209,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.1776988",
-			"Longitud": "-76.94539"
+			"Latitud": -12.177699,
+			"Longitud": -76.94539
 		},
 		{
 			"IdEstablecimiento": "6161",
@@ -9265,8 +9237,8 @@
 			"PendientesPorcentaje": "44.29",
 			"Perdidos": "0",
 			"CantidadVacunados": "39",
-			"Latitud": "-12.1910331",
-			"Longitud": "-76.9274519"
+			"Latitud": -12.191033,
+			"Longitud": -76.92745
 		},
 		{
 			"IdEstablecimiento": "5984",
@@ -9293,8 +9265,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.1605768",
-			"Longitud": "-76.9591024"
+			"Latitud": -12.160577,
+			"Longitud": -76.9591
 		},
 		{
 			"IdEstablecimiento": "6101",
@@ -9321,8 +9293,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "86",
-			"Latitud": "-12.1522561",
-			"Longitud": "-76.9684425"
+			"Latitud": -12.152256,
+			"Longitud": -76.968445
 		},
 		{
 			"IdEstablecimiento": "6104",
@@ -9349,8 +9321,8 @@
 			"PendientesPorcentaje": "17.65",
 			"Perdidos": "0",
 			"CantidadVacunados": "56",
-			"Latitud": "-12.1358082",
-			"Longitud": "-76.9635479"
+			"Latitud": -12.135808,
+			"Longitud": -76.96355
 		},
 		{
 			"IdEstablecimiento": "26159",
@@ -9377,8 +9349,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.1530319",
-			"Longitud": "-76.9751414"
+			"Latitud": -12.153032,
+			"Longitud": -76.97514
 		},
 		{
 			"IdEstablecimiento": "28881",
@@ -9405,8 +9377,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.1631258",
-			"Longitud": "-76.9675333"
+			"Latitud": -12.163126,
+			"Longitud": -76.96754
 		},
 		{
 			"IdEstablecimiento": "6210",
@@ -9433,8 +9405,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.1282107",
-			"Longitud": "-77.0180619"
+			"Latitud": -12.128211,
+			"Longitud": -77.01806
 		},
 		{
 			"IdEstablecimiento": "8761",
@@ -9461,8 +9433,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.1304553",
-			"Longitud": "-77.0193066"
+			"Latitud": -12.130455,
+			"Longitud": -77.01931
 		},
 		{
 			"IdEstablecimiento": "9015",
@@ -9489,8 +9461,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.11346867",
-			"Longitud": "-77.02809522"
+			"Latitud": -12.113469,
+			"Longitud": -77.02809
 		},
 		{
 			"IdEstablecimiento": "11803",
@@ -9517,8 +9489,8 @@
 			"PendientesPorcentaje": "11.5",
 			"Perdidos": "0",
 			"CantidadVacunados": "685",
-			"Latitud": "-12.10342333",
-			"Longitud": "-77.029825"
+			"Latitud": -12.103423,
+			"Longitud": -77.02982
 		},
 		{
 			"IdEstablecimiento": "14423",
@@ -9545,8 +9517,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.111062",
-			"Longitud": "-77.0315913"
+			"Latitud": -12.111062,
+			"Longitud": -77.03159
 		},
 		{
 			"IdEstablecimiento": "6175",
@@ -9573,8 +9545,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "492",
-			"Latitud": "-12.1182384",
-			"Longitud": "-77.022067"
+			"Latitud": -12.118238,
+			"Longitud": -77.022064
 		},
 		{
 			"IdEstablecimiento": "6207",
@@ -9601,8 +9573,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.1117911",
-			"Longitud": "-76.9991488"
+			"Latitud": -12.111791,
+			"Longitud": -76.999146
 		},
 		{
 			"IdEstablecimiento": "2299",
@@ -9629,8 +9601,8 @@
 			"PendientesPorcentaje": "13.24",
 			"Perdidos": "0",
 			"CantidadVacunados": "59",
-			"Latitud": "-13.54884632",
-			"Longitud": "-71.88002087"
+			"Latitud": -13.548846,
+			"Longitud": -71.88002
 		},
 		{
 			"IdEstablecimiento": "8904",
@@ -9657,8 +9629,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-11.20756044",
-			"Longitud": "-74.65836055"
+			"Latitud": -11.207561,
+			"Longitud": -74.65836
 		},
 		{
 			"IdEstablecimiento": "519",
@@ -9685,8 +9657,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "147",
-			"Latitud": "-11.15840599",
-			"Longitud": "-75.99831121"
+			"Latitud": -11.158406,
+			"Longitud": -75.998314
 		},
 		{
 			"IdEstablecimiento": "542",
@@ -9713,8 +9685,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "47",
-			"Latitud": "-11.26602291",
-			"Longitud": "-75.64738585"
+			"Latitud": -11.266023,
+			"Longitud": -75.647385
 		},
 		{
 			"IdEstablecimiento": "2628",
@@ -9741,8 +9713,8 @@
 			"PendientesPorcentaje": "4.84",
 			"Perdidos": "0",
 			"CantidadVacunados": "59",
-			"Latitud": "-13.53678754",
-			"Longitud": "-72.69805466"
+			"Latitud": -13.536788,
+			"Longitud": -72.69805
 		},
 		{
 			"IdEstablecimiento": "4134",
@@ -9769,8 +9741,8 @@
 			"PendientesPorcentaje": "25.93",
 			"Perdidos": "0",
 			"CantidadVacunados": "40",
-			"Latitud": "-13.53189361",
-			"Longitud": "-73.67512169"
+			"Latitud": -13.531894,
+			"Longitud": -73.675125
 		},
 		{
 			"IdEstablecimiento": "2288",
@@ -9797,8 +9769,8 @@
 			"PendientesPorcentaje": "27.75",
 			"Perdidos": "0",
 			"CantidadVacunados": "651",
-			"Latitud": "-13.52314833",
-			"Longitud": "-71.95571333"
+			"Latitud": -13.523149,
+			"Longitud": -71.95571
 		},
 		{
 			"IdEstablecimiento": "2519",
@@ -9825,8 +9797,8 @@
 			"PendientesPorcentaje": "30.77",
 			"Perdidos": "0",
 			"CantidadVacunados": "18",
-			"Latitud": "-13.5042252",
-			"Longitud": "-71.65084022"
+			"Latitud": -13.504225,
+			"Longitud": -71.65084
 		},
 		{
 			"IdEstablecimiento": "2527",
@@ -9853,8 +9825,8 @@
 			"PendientesPorcentaje": "44.44",
 			"Perdidos": "0",
 			"CantidadVacunados": "15",
-			"Latitud": "-13.60698833",
-			"Longitud": "-71.56109667"
+			"Latitud": -13.606988,
+			"Longitud": -71.5611
 		},
 		{
 			"IdEstablecimiento": "4137",
@@ -9881,8 +9853,8 @@
 			"PendientesPorcentaje": "18.03",
 			"Perdidos": "0",
 			"CantidadVacunados": "100",
-			"Latitud": "-13.51834",
-			"Longitud": "-73.71802"
+			"Latitud": -13.51834,
+			"Longitud": -73.71802
 		},
 		{
 			"IdEstablecimiento": "2475",
@@ -9909,8 +9881,8 @@
 			"PendientesPorcentaje": "26.32",
 			"Perdidos": "0",
 			"CantidadVacunados": "14",
-			"Latitud": "-13.13050189",
-			"Longitud": "-72.59358292"
+			"Latitud": -13.130502,
+			"Longitud": -72.59358
 		},
 		{
 			"IdEstablecimiento": "3326",
@@ -9937,8 +9909,8 @@
 			"PendientesPorcentaje": "40.91",
 			"Perdidos": "0",
 			"CantidadVacunados": "13",
-			"Latitud": "-14.11404305",
-			"Longitud": "-69.04707494"
+			"Latitud": -14.114043,
+			"Longitud": -69.04707
 		},
 		{
 			"IdEstablecimiento": "6027",
@@ -9965,8 +9937,8 @@
 			"PendientesPorcentaje": "23.38",
 			"Perdidos": "0",
 			"CantidadVacunados": "59",
-			"Latitud": "-13.05798604",
-			"Longitud": "-76.35524246"
+			"Latitud": -13.057986,
+			"Longitud": -76.35524
 		},
 		{
 			"IdEstablecimiento": "4071",
@@ -9993,8 +9965,8 @@
 			"PendientesPorcentaje": "10.17",
 			"Perdidos": "0",
 			"CantidadVacunados": "212",
-			"Latitud": "-12.39571",
-			"Longitud": "-74.86732"
+			"Latitud": -12.39571,
+			"Longitud": -74.86732
 		},
 		{
 			"IdEstablecimiento": "8966",
@@ -10021,8 +9993,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0659612",
-			"Longitud": "-77.0945832"
+			"Latitud": -12.065961,
+			"Longitud": -77.09458
 		},
 		{
 			"IdEstablecimiento": "20793",
@@ -10049,8 +10021,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.08667016",
-			"Longitud": "-77.08067194"
+			"Latitud": -12.08667,
+			"Longitud": -77.08067
 		},
 		{
 			"IdEstablecimiento": "4129",
@@ -10077,8 +10049,8 @@
 			"PendientesPorcentaje": "10.34",
 			"Perdidos": "0",
 			"CantidadVacunados": "26",
-			"Latitud": "-13.52821493",
-			"Longitud": "-73.36690429"
+			"Latitud": -13.528214,
+			"Longitud": -73.366905
 		},
 		{
 			"IdEstablecimiento": "2335",
@@ -10105,8 +10077,8 @@
 			"PendientesPorcentaje": "7.41",
 			"Perdidos": "0",
 			"CantidadVacunados": "25",
-			"Latitud": "-13.47721288",
-			"Longitud": "-72.44248445"
+			"Latitud": -13.477213,
+			"Longitud": -72.44248
 		},
 		{
 			"IdEstablecimiento": "2347",
@@ -10133,8 +10105,8 @@
 			"PendientesPorcentaje": "19.44",
 			"Perdidos": "0",
 			"CantidadVacunados": "29",
-			"Latitud": "-13.4225552",
-			"Longitud": "-71.8527449"
+			"Latitud": -13.422555,
+			"Longitud": -71.852745
 		},
 		{
 			"IdEstablecimiento": "2546",
@@ -10161,8 +10133,8 @@
 			"PendientesPorcentaje": "17.65",
 			"Perdidos": "0",
 			"CantidadVacunados": "14",
-			"Latitud": "-13.33531959",
-			"Longitud": "-72.15800096"
+			"Latitud": -13.3353195,
+			"Longitud": -72.158005
 		},
 		{
 			"IdEstablecimiento": "6121",
@@ -10189,8 +10161,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.2301776",
-			"Longitud": "-76.923745"
+			"Latitud": -12.230178,
+			"Longitud": -76.923744
 		},
 		{
 			"IdEstablecimiento": "6129",
@@ -10217,8 +10189,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.1982974",
-			"Longitud": "-76.9463104"
+			"Latitud": -12.1982975,
+			"Longitud": -76.94631
 		},
 		{
 			"IdEstablecimiento": "6130",
@@ -10245,8 +10217,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.2191614",
-			"Longitud": "-76.9452898"
+			"Latitud": -12.219161,
+			"Longitud": -76.94529
 		},
 		{
 			"IdEstablecimiento": "8958",
@@ -10273,8 +10245,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.2107672",
-			"Longitud": "-76.9319845"
+			"Latitud": -12.210767,
+			"Longitud": -76.931984
 		},
 		{
 			"IdEstablecimiento": "32114",
@@ -10301,8 +10273,8 @@
 			"PendientesPorcentaje": "26.72",
 			"Perdidos": "0",
 			"CantidadVacunados": "1105",
-			"Latitud": "-12.2326004",
-			"Longitud": "-76.9336669"
+			"Latitud": -12.2326,
+			"Longitud": -76.93367
 		},
 		{
 			"IdEstablecimiento": "9999170",
@@ -10329,8 +10301,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.5177532",
-			"Longitud": "-73.8271024"
+			"Latitud": -12.517754,
+			"Longitud": -73.8271
 		},
 		{
 			"IdEstablecimiento": "3806",
@@ -10357,8 +10329,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "46",
-			"Latitud": "-14.00814",
-			"Longitud": "-73.84390667"
+			"Latitud": -14.00814,
+			"Longitud": -73.84391
 		},
 		{
 			"IdEstablecimiento": "3637",
@@ -10385,8 +10357,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "52",
-			"Latitud": "-13.92375464",
-			"Longitud": "-74.33578849"
+			"Latitud": -13.923755,
+			"Longitud": -74.335785
 		},
 		{
 			"IdEstablecimiento": "2325",
@@ -10413,8 +10385,8 @@
 			"PendientesPorcentaje": "15.22",
 			"Perdidos": "0",
 			"CantidadVacunados": "39",
-			"Latitud": "-13.46247723",
-			"Longitud": "-72.14629207"
+			"Latitud": -13.462478,
+			"Longitud": -72.14629
 		},
 		{
 			"IdEstablecimiento": "4150",
@@ -10441,8 +10413,8 @@
 			"PendientesPorcentaje": "27.5",
 			"Perdidos": "0",
 			"CantidadVacunados": "29",
-			"Latitud": "-13.4812389",
-			"Longitud": "-73.56453675"
+			"Latitud": -13.481239,
+			"Longitud": -73.56454
 		},
 		{
 			"IdEstablecimiento": "2541",
@@ -10469,8 +10441,8 @@
 			"PendientesPorcentaje": "24.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "19",
-			"Latitud": "-13.3961655",
-			"Longitud": "-72.05221702"
+			"Latitud": -13.396166,
+			"Longitud": -72.052216
 		},
 		{
 			"IdEstablecimiento": "2979",
@@ -10497,8 +10469,8 @@
 			"PendientesPorcentaje": "44.12",
 			"Perdidos": "0",
 			"CantidadVacunados": "19",
-			"Latitud": "-13.43685333",
-			"Longitud": "-70.40175333"
+			"Latitud": -13.436853,
+			"Longitud": -70.40176
 		},
 		{
 			"IdEstablecimiento": "3417",
@@ -10525,8 +10497,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "39",
-			"Latitud": "-13.40463767",
-			"Longitud": "-76.1276716"
+			"Latitud": -13.404637,
+			"Longitud": -76.12767
 		},
 		{
 			"IdEstablecimiento": "2963",
@@ -10553,8 +10525,8 @@
 			"PendientesPorcentaje": "31.25",
 			"Perdidos": "0",
 			"CantidadVacunados": "22",
-			"Latitud": "-13.77763",
-			"Longitud": "-70.32423333"
+			"Latitud": -13.77763,
+			"Longitud": -70.324234
 		},
 		{
 			"IdEstablecimiento": "2509",
@@ -10581,8 +10553,8 @@
 			"PendientesPorcentaje": "23.68",
 			"Perdidos": "0",
 			"CantidadVacunados": "29",
-			"Latitud": "-13.32281387",
-			"Longitud": "-71.5911389"
+			"Latitud": -13.322814,
+			"Longitud": -71.59114
 		},
 		{
 			"IdEstablecimiento": "2547",
@@ -10609,8 +10581,8 @@
 			"PendientesPorcentaje": "4.55",
 			"Perdidos": "0",
 			"CantidadVacunados": "21",
-			"Latitud": "-13.25836952",
-			"Longitud": "-72.26471747"
+			"Latitud": -13.258369,
+			"Longitud": -72.26472
 		},
 		{
 			"IdEstablecimiento": "2544",
@@ -10637,8 +10609,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "17",
-			"Latitud": "-13.15529272",
-			"Longitud": "-72.52498628"
+			"Latitud": -13.1552925,
+			"Longitud": -72.52499
 		},
 		{
 			"IdEstablecimiento": "5983",
@@ -10665,8 +10637,8 @@
 			"PendientesPorcentaje": "46.46",
 			"Perdidos": "0",
 			"CantidadVacunados": "227",
-			"Latitud": "-13.076235",
-			"Longitud": "-76.385432"
+			"Latitud": -13.076235,
+			"Longitud": -76.38543
 		},
 		{
 			"IdEstablecimiento": "12788",
@@ -10693,8 +10665,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-13.0754862",
-			"Longitud": "-76.3800967"
+			"Latitud": -13.075486,
+			"Longitud": -76.3801
 		},
 		{
 			"IdEstablecimiento": "5947",
@@ -10721,8 +10693,8 @@
 			"PendientesPorcentaje": "6.67",
 			"Perdidos": "0",
 			"CantidadVacunados": "70",
-			"Latitud": "-11.923455",
-			"Longitud": "-76.66398"
+			"Latitud": -11.923455,
+			"Longitud": -76.66398
 		},
 		{
 			"IdEstablecimiento": "727",
@@ -10749,8 +10721,8 @@
 			"PendientesPorcentaje": "0.76",
 			"Perdidos": "0",
 			"CantidadVacunados": "130",
-			"Latitud": "-12.06428378",
-			"Longitud": "-75.20435799"
+			"Latitud": -12.064283,
+			"Longitud": -75.20436
 		},
 		{
 			"IdEstablecimiento": "753",
@@ -10777,8 +10749,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "969",
-			"Latitud": "-12.073004",
-			"Longitud": "-75.221612"
+			"Latitud": -12.073004,
+			"Longitud": -75.22161
 		},
 		{
 			"IdEstablecimiento": "6610",
@@ -10805,8 +10777,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "674",
-			"Latitud": "-12.070161",
-			"Longitud": "-75.214222"
+			"Latitud": -12.070161,
+			"Longitud": -75.214226
 		},
 		{
 			"IdEstablecimiento": "3851",
@@ -10833,8 +10805,8 @@
 			"PendientesPorcentaje": "58.6",
 			"Perdidos": "0",
 			"CantidadVacunados": "267",
-			"Latitud": "-12.7872348",
-			"Longitud": "-74.98103709"
+			"Latitud": -12.787235,
+			"Longitud": -74.98103
 		},
 		{
 			"IdEstablecimiento": "2464",
@@ -10861,8 +10833,8 @@
 			"PendientesPorcentaje": "15.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "17",
-			"Latitud": "-12.63569",
-			"Longitud": "-72.55913"
+			"Latitud": -12.63569,
+			"Longitud": -72.55913
 		},
 		{
 			"IdEstablecimiento": "6172",
@@ -10889,8 +10861,8 @@
 			"PendientesPorcentaje": "29.51",
 			"Perdidos": "0",
 			"CantidadVacunados": "43",
-			"Latitud": "-12.0676604",
-			"Longitud": "-77.0209069"
+			"Latitud": -12.06766,
+			"Longitud": -77.020905
 		},
 		{
 			"IdEstablecimiento": "6209",
@@ -10917,8 +10889,8 @@
 			"PendientesPorcentaje": "26.17",
 			"Perdidos": "0",
 			"CantidadVacunados": "347",
-			"Latitud": "-12.0581708",
-			"Longitud": "-77.0217293"
+			"Latitud": -12.058171,
+			"Longitud": -77.02173
 		},
 		{
 			"IdEstablecimiento": "8802",
@@ -10945,8 +10917,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0582734",
-			"Longitud": "-77.022538"
+			"Latitud": -12.058273,
+			"Longitud": -77.02254
 		},
 		{
 			"IdEstablecimiento": "10110",
@@ -10973,8 +10945,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0681536",
-			"Longitud": "-76.9632882"
+			"Latitud": -12.068153,
+			"Longitud": -76.96329
 		},
 		{
 			"IdEstablecimiento": "11879",
@@ -11001,8 +10973,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.062131",
-			"Longitud": "-76.9455439"
+			"Latitud": -12.062131,
+			"Longitud": -76.94554
 		},
 		{
 			"IdEstablecimiento": "6215",
@@ -11029,8 +11001,8 @@
 			"PendientesPorcentaje": "23.01",
 			"Perdidos": "0",
 			"CantidadVacunados": "1332",
-			"Latitud": "-12.063792",
-			"Longitud": "-77.124813"
+			"Latitud": -12.063792,
+			"Longitud": -77.12481
 		},
 		{
 			"IdEstablecimiento": "6246",
@@ -11057,8 +11029,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "95",
-			"Latitud": "-12.06171682",
-			"Longitud": "-77.10633786"
+			"Latitud": -12.061717,
+			"Longitud": -77.10634
 		},
 		{
 			"IdEstablecimiento": "8668",
@@ -11085,8 +11057,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0639353",
-			"Longitud": "-77.1214128"
+			"Latitud": -12.063935,
+			"Longitud": -77.121414
 		},
 		{
 			"IdEstablecimiento": "8669",
@@ -11113,8 +11085,8 @@
 			"PendientesPorcentaje": "16.78",
 			"Perdidos": "0",
 			"CantidadVacunados": "893",
-			"Latitud": "-12.0617901",
-			"Longitud": "-77.0901374"
+			"Latitud": -12.06179,
+			"Longitud": -77.09013
 		},
 		{
 			"IdEstablecimiento": "26907",
@@ -11141,8 +11113,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.06268977",
-			"Longitud": "-77.13320624"
+			"Latitud": -12.06269,
+			"Longitud": -77.13321
 		},
 		{
 			"IdEstablecimiento": "6213",
@@ -11169,8 +11141,8 @@
 			"PendientesPorcentaje": "96.76",
 			"Perdidos": "0",
 			"CantidadVacunados": "61",
-			"Latitud": "-12.0654786",
-			"Longitud": "-77.0459873"
+			"Latitud": -12.065478,
+			"Longitud": -77.04599
 		},
 		{
 			"IdEstablecimiento": "608",
@@ -11197,8 +11169,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "143",
-			"Latitud": "-12.0906394",
-			"Longitud": "-75.20297417"
+			"Latitud": -12.090639,
+			"Longitud": -75.20297
 		},
 		{
 			"IdEstablecimiento": "646",
@@ -11225,8 +11197,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "112",
-			"Latitud": "-12.06398828",
-			"Longitud": "-75.28830102"
+			"Latitud": -12.063989,
+			"Longitud": -75.2883
 		},
 		{
 			"IdEstablecimiento": "4125",
@@ -11253,8 +11225,8 @@
 			"PendientesPorcentaje": "13.33",
 			"Perdidos": "0",
 			"CantidadVacunados": "26",
-			"Latitud": "-12.11570251",
-			"Longitud": "-74.63015488"
+			"Latitud": -12.115703,
+			"Longitud": -74.63016
 		},
 		{
 			"IdEstablecimiento": "5945",
@@ -11281,8 +11253,8 @@
 			"PendientesPorcentaje": "90.54",
 			"Perdidos": "0",
 			"CantidadVacunados": "338",
-			"Latitud": "-12.0468271",
-			"Longitud": "-76.9454975"
+			"Latitud": -12.046827,
+			"Longitud": -76.945496
 		},
 		{
 			"IdEstablecimiento": "6734",
@@ -11309,8 +11281,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "60",
-			"Latitud": "-12.0413621",
-			"Longitud": "-76.9691707"
+			"Latitud": -12.041362,
+			"Longitud": -76.96917
 		},
 		{
 			"IdEstablecimiento": "8821",
@@ -11337,8 +11309,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.04742267",
-			"Longitud": "-76.94735173"
+			"Latitud": -12.047422,
+			"Longitud": -76.94735
 		},
 		{
 			"IdEstablecimiento": "12641",
@@ -11365,8 +11337,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.04757833",
-			"Longitud": "-76.947995"
+			"Latitud": -12.047578,
+			"Longitud": -76.948
 		},
 		{
 			"IdEstablecimiento": "5975",
@@ -11393,8 +11365,8 @@
 			"PendientesPorcentaje": "51.92",
 			"Perdidos": "0",
 			"CantidadVacunados": "52",
-			"Latitud": "-12.1110471",
-			"Longitud": "-76.8182673"
+			"Latitud": -12.111047,
+			"Longitud": -76.81827
 		},
 		{
 			"IdEstablecimiento": "5847",
@@ -11421,8 +11393,8 @@
 			"PendientesPorcentaje": "12.9",
 			"Perdidos": "0",
 			"CantidadVacunados": "54",
-			"Latitud": "-11.842977",
-			"Longitud": "-76.381897"
+			"Latitud": -11.842977,
+			"Longitud": -76.3819
 		},
 		{
 			"IdEstablecimiento": "559",
@@ -11449,8 +11421,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "71",
-			"Latitud": "-11.52207533",
-			"Longitud": "-75.90646915"
+			"Latitud": -11.522076,
+			"Longitud": -75.90647
 		},
 		{
 			"IdEstablecimiento": "7366",
@@ -11477,8 +11449,8 @@
 			"PendientesPorcentaje": "17.28",
 			"Perdidos": "0",
 			"CantidadVacunados": "359",
-			"Latitud": "-11.56082038",
-			"Longitud": "-77.27058037"
+			"Latitud": -11.560821,
+			"Longitud": -77.270584
 		},
 		{
 			"IdEstablecimiento": "520",
@@ -11505,8 +11477,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "364",
-			"Latitud": "-11.42508388",
-			"Longitud": "-75.69261968"
+			"Latitud": -11.425084,
+			"Longitud": -75.69262
 		},
 		{
 			"IdEstablecimiento": "8913",
@@ -11533,8 +11505,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-11.39716778",
-			"Longitud": "-75.6874875"
+			"Latitud": -11.397168,
+			"Longitud": -75.687485
 		},
 		{
 			"IdEstablecimiento": "521",
@@ -11561,8 +11533,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "57",
-			"Latitud": "-11.35409117",
-			"Longitud": "-75.66359818"
+			"Latitud": -11.354092,
+			"Longitud": -75.6636
 		},
 		{
 			"IdEstablecimiento": "6216",
@@ -11589,8 +11561,8 @@
 			"PendientesPorcentaje": "16.14",
 			"Perdidos": "0",
 			"CantidadVacunados": "509",
-			"Latitud": "-12.04273444",
-			"Longitud": "-77.09846168"
+			"Latitud": -12.042734,
+			"Longitud": -77.098465
 		},
 		{
 			"IdEstablecimiento": "11197",
@@ -11617,8 +11589,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0764991",
-			"Longitud": "-77.0357292"
+			"Latitud": -12.076499,
+			"Longitud": -77.03573
 		},
 		{
 			"IdEstablecimiento": "8710",
@@ -11645,8 +11617,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0617676",
-			"Longitud": "-77.0900537"
+			"Latitud": -12.061768,
+			"Longitud": -77.09006
 		},
 		{
 			"IdEstablecimiento": "8785",
@@ -11673,8 +11645,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0589571",
-			"Longitud": "-77.0312779"
+			"Latitud": -12.058957,
+			"Longitud": -77.03128
 		},
 		{
 			"IdEstablecimiento": "22286",
@@ -11701,8 +11673,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.05836675",
-			"Longitud": "-77.03836239"
+			"Latitud": -12.058367,
+			"Longitud": -77.03836
 		},
 		{
 			"IdEstablecimiento": "6203",
@@ -11729,8 +11701,8 @@
 			"PendientesPorcentaje": "9.25",
 			"Perdidos": "0",
 			"CantidadVacunados": "2071",
-			"Latitud": "-12.0571705",
-			"Longitud": "-77.0162686"
+			"Latitud": -12.057171,
+			"Longitud": -77.016266
 		},
 		{
 			"IdEstablecimiento": "6205",
@@ -11757,8 +11729,8 @@
 			"PendientesPorcentaje": "26.64",
 			"Perdidos": "0",
 			"CantidadVacunados": "1085",
-			"Latitud": "-12.0529163",
-			"Longitud": "-77.0221718"
+			"Latitud": -12.052917,
+			"Longitud": -77.02217
 		},
 		{
 			"IdEstablecimiento": "6214",
@@ -11785,8 +11757,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0518041",
-			"Longitud": "-77.0550192"
+			"Latitud": -12.051805,
+			"Longitud": -77.055016
 		},
 		{
 			"IdEstablecimiento": "6212",
@@ -11813,8 +11785,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "1191",
-			"Latitud": "-12.0499179",
-			"Longitud": "-77.0423608"
+			"Latitud": -12.049918,
+			"Longitud": -77.04236
 		},
 		{
 			"IdEstablecimiento": "6204",
@@ -11841,8 +11813,8 @@
 			"PendientesPorcentaje": "14.14",
 			"Perdidos": "0",
 			"CantidadVacunados": "2319",
-			"Latitud": "-12.0498454",
-			"Longitud": "-77.0425597"
+			"Latitud": -12.049846,
+			"Longitud": -77.04256
 		},
 		{
 			"IdEstablecimiento": "6206",
@@ -11869,8 +11841,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0462295",
-			"Longitud": "-77.0156898"
+			"Latitud": -12.046229,
+			"Longitud": -77.015686
 		},
 		{
 			"IdEstablecimiento": "23569",
@@ -11897,8 +11869,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.04473587",
-			"Longitud": "-77.04019498"
+			"Latitud": -12.044736,
+			"Longitud": -77.04019
 		},
 		{
 			"IdEstablecimiento": "8685",
@@ -11925,8 +11897,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0443408",
-			"Longitud": "-77.0440331"
+			"Latitud": -12.044341,
+			"Longitud": -77.04404
 		},
 		{
 			"IdEstablecimiento": "5943",
@@ -11953,8 +11925,8 @@
 			"PendientesPorcentaje": "10.32",
 			"Perdidos": "0",
 			"CantidadVacunados": "2128",
-			"Latitud": "-12.0399743",
-			"Longitud": "-76.9935755"
+			"Latitud": -12.039974,
+			"Longitud": -76.993576
 		},
 		{
 			"IdEstablecimiento": "5641",
@@ -11981,8 +11953,8 @@
 			"PendientesPorcentaje": "19.82",
 			"Perdidos": "0",
 			"CantidadVacunados": "89",
-			"Latitud": "-12.0343399",
-			"Longitud": "-77.0336606"
+			"Latitud": -12.03434,
+			"Longitud": -77.03366
 		},
 		{
 			"IdEstablecimiento": "5839",
@@ -12009,8 +11981,8 @@
 			"PendientesPorcentaje": "20.99",
 			"Perdidos": "0",
 			"CantidadVacunados": "64",
-			"Latitud": "-12.0325307",
-			"Longitud": "-77.0129107"
+			"Latitud": -12.032531,
+			"Longitud": -77.01291
 		},
 		{
 			"IdEstablecimiento": "16030",
@@ -12037,8 +12009,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0282877",
-			"Longitud": "-77.044228"
+			"Latitud": -12.028288,
+			"Longitud": -77.04423
 		},
 		{
 			"IdEstablecimiento": "17435",
@@ -12065,8 +12037,8 @@
 			"PendientesPorcentaje": "7.33",
 			"Perdidos": "0",
 			"CantidadVacunados": "215",
-			"Latitud": "-12.0281717",
-			"Longitud": "-77.0193529"
+			"Latitud": -12.028172,
+			"Longitud": -77.019356
 		},
 		{
 			"IdEstablecimiento": "5880",
@@ -12093,8 +12065,8 @@
 			"PendientesPorcentaje": "76.57",
 			"Perdidos": "0",
 			"CantidadVacunados": "396",
-			"Latitud": "-12.0158889",
-			"Longitud": "-76.8201183"
+			"Latitud": -12.015889,
+			"Longitud": -76.82012
 		},
 		{
 			"IdEstablecimiento": "5942",
@@ -12121,8 +12093,8 @@
 			"PendientesPorcentaje": "99.18",
 			"Perdidos": "0",
 			"CantidadVacunados": "699",
-			"Latitud": "-12.0260421",
-			"Longitud": "-76.9199038"
+			"Latitud": -12.026042,
+			"Longitud": -76.91991
 		},
 		{
 			"IdEstablecimiento": "5963",
@@ -12149,8 +12121,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "55",
-			"Latitud": "-12.0600611",
-			"Longitud": "-76.9964076"
+			"Latitud": -12.060061,
+			"Longitud": -76.99641
 		},
 		{
 			"IdEstablecimiento": "8944",
@@ -12177,8 +12149,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.02704336",
-			"Longitud": "-76.92369527"
+			"Latitud": -12.027043,
+			"Longitud": -76.9237
 		},
 		{
 			"IdEstablecimiento": "37526",
@@ -12205,8 +12177,8 @@
 			"PendientesPorcentaje": "19.08",
 			"Perdidos": "0",
 			"CantidadVacunados": "810",
-			"Latitud": "-12.0104468",
-			"Longitud": "-76.8290986"
+			"Latitud": -12.010447,
+			"Longitud": -76.8291
 		},
 		{
 			"IdEstablecimiento": "5935",
@@ -12233,8 +12205,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "82",
-			"Latitud": "-11.9870514",
-			"Longitud": "-76.8136381"
+			"Latitud": -11.987051,
+			"Longitud": -76.81364
 		},
 		{
 			"IdEstablecimiento": "5788",
@@ -12261,8 +12233,8 @@
 			"PendientesPorcentaje": "60.39",
 			"Perdidos": "0",
 			"CantidadVacunados": "61",
-			"Latitud": "-11.9784658",
-			"Longitud": "-77.0529828"
+			"Latitud": -11.978466,
+			"Longitud": -77.052986
 		},
 		{
 			"IdEstablecimiento": "6225",
@@ -12289,8 +12261,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "58",
-			"Latitud": "-12.04253586",
-			"Longitud": "-77.12024461"
+			"Latitud": -12.042536,
+			"Longitud": -77.12025
 		},
 		{
 			"IdEstablecimiento": "6227",
@@ -12317,8 +12289,8 @@
 			"PendientesPorcentaje": "3.39",
 			"Perdidos": "0",
 			"CantidadVacunados": "57",
-			"Latitud": "-12.02215478",
-			"Longitud": "-77.13692002"
+			"Latitud": -12.022155,
+			"Longitud": -77.13692
 		},
 		{
 			"IdEstablecimiento": "6235",
@@ -12345,8 +12317,8 @@
 			"PendientesPorcentaje": "9.68",
 			"Perdidos": "0",
 			"CantidadVacunados": "56",
-			"Latitud": "-11.94257438",
-			"Longitud": "-77.13418214"
+			"Latitud": -11.9425745,
+			"Longitud": -77.134186
 		},
 		{
 			"IdEstablecimiento": "12329",
@@ -12373,8 +12345,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.03501833",
-			"Longitud": "-77.13737167"
+			"Latitud": -12.035018,
+			"Longitud": -77.137375
 		},
 		{
 			"IdEstablecimiento": "12782",
@@ -12401,8 +12373,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.0157493",
-			"Longitud": "-77.0979946"
+			"Latitud": -12.015749,
+			"Longitud": -77.09799
 		},
 		{
 			"IdEstablecimiento": "5739",
@@ -12429,8 +12401,8 @@
 			"PendientesPorcentaje": "14.04",
 			"Perdidos": "0",
 			"CantidadVacunados": "49",
-			"Latitud": "-12.0252261",
-			"Longitud": "-77.0850499"
+			"Latitud": -12.025226,
+			"Longitud": -77.08505
 		},
 		{
 			"IdEstablecimiento": "7361",
@@ -12457,8 +12429,8 @@
 			"PendientesPorcentaje": "1.3",
 			"Perdidos": "0",
 			"CantidadVacunados": "2124",
-			"Latitud": "-12.0220216",
-			"Longitud": "-77.0544967"
+			"Latitud": -12.022021,
+			"Longitud": -77.0545
 		},
 		{
 			"IdEstablecimiento": "7427",
@@ -12485,8 +12457,8 @@
 			"PendientesPorcentaje": "16.33",
 			"Perdidos": "0",
 			"CantidadVacunados": "292",
-			"Latitud": "-12.0199185",
-			"Longitud": "-77.0554348"
+			"Latitud": -12.019918,
+			"Longitud": -77.055435
 		},
 		{
 			"IdEstablecimiento": "12736",
@@ -12513,8 +12485,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.02361464",
-			"Longitud": "-77.05581016"
+			"Latitud": -12.023615,
+			"Longitud": -77.05581
 		},
 		{
 			"IdEstablecimiento": "5796",
@@ -12541,8 +12513,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-11.95309937",
-			"Longitud": "-77.07798163"
+			"Latitud": -11.953099,
+			"Longitud": -77.07798
 		},
 		{
 			"IdEstablecimiento": "7944",
@@ -12569,8 +12541,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-11.9913612",
-			"Longitud": "-77.0791356"
+			"Latitud": -11.991362,
+			"Longitud": -77.07913
 		},
 		{
 			"IdEstablecimiento": "36689",
@@ -12597,8 +12569,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-11.9564535",
-			"Longitud": "-77.0696053"
+			"Latitud": -11.956453,
+			"Longitud": -77.0696
 		},
 		{
 			"IdEstablecimiento": "5752",
@@ -12625,8 +12597,8 @@
 			"PendientesPorcentaje": "27.18",
 			"Perdidos": "0",
 			"CantidadVacunados": "75",
-			"Latitud": "-11.9160503",
-			"Longitud": "-77.0553621"
+			"Latitud": -11.91605,
+			"Longitud": -77.05536
 		},
 		{
 			"IdEstablecimiento": "5769",
@@ -12653,8 +12625,8 @@
 			"PendientesPorcentaje": "17.01",
 			"Perdidos": "0",
 			"CantidadVacunados": "122",
-			"Latitud": "-11.94712492",
-			"Longitud": "-77.05898579"
+			"Latitud": -11.9471245,
+			"Longitud": -77.05898
 		},
 		{
 			"IdEstablecimiento": "7362",
@@ -12681,8 +12653,8 @@
 			"PendientesPorcentaje": "30.93",
 			"Perdidos": "0",
 			"CantidadVacunados": "766",
-			"Latitud": "-11.9138337",
-			"Longitud": "-77.0395181"
+			"Latitud": -11.913834,
+			"Longitud": -77.03952
 		},
 		{
 			"IdEstablecimiento": "8634",
@@ -12709,8 +12681,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-11.9438086",
-			"Longitud": "-77.058242"
+			"Latitud": -11.943809,
+			"Longitud": -77.05824
 		},
 		{
 			"IdEstablecimiento": "5944",
@@ -12737,8 +12709,8 @@
 			"PendientesPorcentaje": "85.57",
 			"Perdidos": "0",
 			"CantidadVacunados": "372",
-			"Latitud": "-11.93419549",
-			"Longitud": "-76.69349468"
+			"Latitud": -11.9341955,
+			"Longitud": -76.6935
 		},
 		{
 			"IdEstablecimiento": "5614",
@@ -12765,8 +12737,8 @@
 			"PendientesPorcentaje": "29.74",
 			"Perdidos": "0",
 			"CantidadVacunados": "619",
-			"Latitud": "-11.9665774",
-			"Longitud": "-77.0030573"
+			"Latitud": -11.966578,
+			"Longitud": -77.00306
 		},
 		{
 			"IdEstablecimiento": "8676",
@@ -12793,8 +12765,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-12.004119",
-			"Longitud": "-77.006803"
+			"Latitud": -12.004119,
+			"Longitud": -77.006805
 		},
 		{
 			"IdEstablecimiento": "8820",
@@ -12821,8 +12793,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-11.9684779",
-			"Longitud": "-76.9955667"
+			"Latitud": -11.968478,
+			"Longitud": -76.99557
 		},
 		{
 			"IdEstablecimiento": "9977",
@@ -12849,8 +12821,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-11.9863694",
-			"Longitud": "-77.0102346"
+			"Latitud": -11.986369,
+			"Longitud": -77.01023
 		},
 		{
 			"IdEstablecimiento": "6253",
@@ -12877,8 +12849,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "58",
-			"Latitud": "-11.82855773",
-			"Longitud": "-77.12271214"
+			"Latitud": -11.828558,
+			"Longitud": -77.12271
 		},
 		{
 			"IdEstablecimiento": "7102",
@@ -12905,8 +12877,8 @@
 			"PendientesPorcentaje": "4.66",
 			"Perdidos": "0",
 			"CantidadVacunados": "471",
-			"Latitud": "-11.87298251",
-			"Longitud": "-77.12572429"
+			"Latitud": -11.872983,
+			"Longitud": -77.125725
 		},
 		{
 			"IdEstablecimiento": "7281",
@@ -12933,8 +12905,8 @@
 			"PendientesPorcentaje": "18.02",
 			"Perdidos": "0",
 			"CantidadVacunados": "91",
-			"Latitud": "-11.83265968",
-			"Longitud": "-77.1419038"
+			"Latitud": -11.83266,
+			"Longitud": -77.14191
 		},
 		{
 			"IdEstablecimiento": "5813",
@@ -12961,8 +12933,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-11.8376114",
-			"Longitud": "-77.1090997"
+			"Latitud": -11.837611,
+			"Longitud": -77.1091
 		},
 		{
 			"IdEstablecimiento": "5814",
@@ -12989,8 +12961,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-11.87466466",
-			"Longitud": "-77.08173075"
+			"Latitud": -11.874664,
+			"Longitud": -77.08173
 		},
 		{
 			"IdEstablecimiento": "5818",
@@ -13017,8 +12989,8 @@
 			"PendientesPorcentaje": "98.89",
 			"Perdidos": "0",
 			"CantidadVacunados": "1",
-			"Latitud": "-11.8875316",
-			"Longitud": "-77.0697014"
+			"Latitud": -11.887531,
+			"Longitud": -77.0697
 		},
 		{
 			"IdEstablecimiento": "7360",
@@ -13045,8 +13017,8 @@
 			"PendientesPorcentaje": "46.89",
 			"Perdidos": "0",
 			"CantidadVacunados": "427",
-			"Latitud": "-11.8631805",
-			"Longitud": "-77.079335"
+			"Latitud": -11.86318,
+			"Longitud": -77.07934
 		},
 		{
 			"IdEstablecimiento": "7103",
@@ -13073,8 +13045,8 @@
 			"PendientesPorcentaje": "22.86",
 			"Perdidos": "0",
 			"CantidadVacunados": "54",
-			"Latitud": "-11.92307",
-			"Longitud": "-76.96177833"
+			"Latitud": -11.92307,
+			"Longitud": -76.96178
 		},
 		{
 			"IdEstablecimiento": "5309",
@@ -13101,8 +13073,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "7",
-			"Latitud": "-8.2241786",
-			"Longitud": "-78.41282279"
+			"Latitud": -8.224178,
+			"Longitud": -78.41283
 		},
 		{
 			"IdEstablecimiento": "6594",
@@ -13129,8 +13101,8 @@
 			"PendientesPorcentaje": "25.64",
 			"Perdidos": "0",
 			"CantidadVacunados": "29",
-			"Latitud": "-8.45882794",
-			"Longitud": "-76.46368063"
+			"Latitud": -8.458828,
+			"Longitud": -76.463684
 		},
 		{
 			"IdEstablecimiento": "5248",
@@ -13157,8 +13129,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "98",
-			"Latitud": "-8.41499745",
-			"Longitud": "-78.75028703"
+			"Latitud": -8.414997,
+			"Longitud": -78.75029
 		},
 		{
 			"IdEstablecimiento": "9379",
@@ -13185,8 +13157,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.4142357",
-			"Longitud": "-78.7527095"
+			"Latitud": -8.414236,
+			"Longitud": -78.75271
 		},
 		{
 			"IdEstablecimiento": "5231",
@@ -13213,8 +13185,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "393",
-			"Latitud": "-8.17132713",
-			"Longitud": "-79.0088505"
+			"Latitud": -8.171328,
+			"Longitud": -79.00885
 		},
 		{
 			"IdEstablecimiento": "7127",
@@ -13241,8 +13213,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "66",
-			"Latitud": "-8.18523488",
-			"Longitud": "-78.98932943"
+			"Latitud": -8.185235,
+			"Longitud": -78.98933
 		},
 		{
 			"IdEstablecimiento": "9225",
@@ -13269,8 +13241,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.167579",
-			"Longitud": "-79.0126097"
+			"Latitud": -8.167579,
+			"Longitud": -79.01261
 		},
 		{
 			"IdEstablecimiento": "1738",
@@ -13297,8 +13269,8 @@
 			"PendientesPorcentaje": "44.44",
 			"Perdidos": "0",
 			"CantidadVacunados": "15",
-			"Latitud": "-9.32791209",
-			"Longitud": "-78.0410111"
+			"Latitud": -9.327912,
+			"Longitud": -78.04101
 		},
 		{
 			"IdEstablecimiento": "1719",
@@ -13325,8 +13297,8 @@
 			"PendientesPorcentaje": "13.89",
 			"Perdidos": "0",
 			"CantidadVacunados": "124",
-			"Latitud": "-9.47397062",
-			"Longitud": "-78.30498052"
+			"Latitud": -9.47397,
+			"Longitud": -78.30498
 		},
 		{
 			"IdEstablecimiento": "4574",
@@ -13353,8 +13325,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "42",
-			"Latitud": "-7.11497989",
-			"Longitud": "-78.82340393"
+			"Latitud": -7.1149797,
+			"Longitud": -78.8234
 		},
 		{
 			"IdEstablecimiento": "6515",
@@ -13381,8 +13353,8 @@
 			"PendientesPorcentaje": "8.57",
 			"Perdidos": "0",
 			"CantidadVacunados": "32",
-			"Latitud": "-7.09804604",
-			"Longitud": "-76.47251988"
+			"Latitud": -7.098046,
+			"Longitud": -76.47252
 		},
 		{
 			"IdEstablecimiento": "4590",
@@ -13409,8 +13381,8 @@
 			"PendientesPorcentaje": "45.78",
 			"Perdidos": "0",
 			"CantidadVacunados": "45",
-			"Latitud": "-7.166032",
-			"Longitud": "-78.466967"
+			"Latitud": -7.166032,
+			"Longitud": -78.466965
 		},
 		{
 			"IdEstablecimiento": "4535",
@@ -13437,8 +13409,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "42",
-			"Latitud": "-7.22042167",
-			"Longitud": "-78.840105"
+			"Latitud": -7.220422,
+			"Longitud": -78.8401
 		},
 		{
 			"IdEstablecimiento": "4584",
@@ -13465,8 +13437,8 @@
 			"PendientesPorcentaje": "42.31",
 			"Perdidos": "0",
 			"CantidadVacunados": "30",
-			"Latitud": "-7.25347576",
-			"Longitud": "-79.1274692"
+			"Latitud": -7.2534757,
+			"Longitud": -79.12747
 		},
 		{
 			"IdEstablecimiento": "5296",
@@ -13493,8 +13465,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "236",
-			"Latitud": "-7.22198826",
-			"Longitud": "-79.43528369"
+			"Latitud": -7.221988,
+			"Longitud": -79.43529
 		},
 		{
 			"IdEstablecimiento": "11384",
@@ -13521,8 +13493,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-7.225865",
-			"Longitud": "-79.436401"
+			"Latitud": -7.225865,
+			"Longitud": -79.4364
 		},
 		{
 			"IdEstablecimiento": "5293",
@@ -13549,8 +13521,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "78",
-			"Latitud": "-7.39878167",
-			"Longitud": "-79.56932667"
+			"Latitud": -7.398782,
+			"Longitud": -79.56933
 		},
 		{
 			"IdEstablecimiento": "8799",
@@ -13577,8 +13549,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-7.4048452",
-			"Longitud": "-79.5639532"
+			"Latitud": -7.404845,
+			"Longitud": -79.56395
 		},
 		{
 			"IdEstablecimiento": "5553",
@@ -13605,8 +13577,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "373",
-			"Latitud": "-8.39181964",
-			"Longitud": "-74.5428795"
+			"Latitud": -8.39182,
+			"Longitud": -74.54288
 		},
 		{
 			"IdEstablecimiento": "5573",
@@ -13633,8 +13605,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.37693929",
-			"Longitud": "-74.53112611"
+			"Latitud": -8.376939,
+			"Longitud": -74.53113
 		},
 		{
 			"IdEstablecimiento": "10658",
@@ -13661,8 +13633,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.39115833",
-			"Longitud": "-74.54646167"
+			"Latitud": -8.391158,
+			"Longitud": -74.54646
 		},
 		{
 			"IdEstablecimiento": "4498",
@@ -13689,8 +13661,8 @@
 			"PendientesPorcentaje": "8.57",
 			"Perdidos": "0",
 			"CantidadVacunados": "64",
-			"Latitud": "-7.33618",
-			"Longitud": "-78.173"
+			"Latitud": -7.33618,
+			"Longitud": -78.173
 		},
 		{
 			"IdEstablecimiento": "5289",
@@ -13717,8 +13689,8 @@
 			"PendientesPorcentaje": "0.63",
 			"Perdidos": "0",
 			"CantidadVacunados": "157",
-			"Latitud": "-7.241255",
-			"Longitud": "-79.47441"
+			"Latitud": -7.241255,
+			"Longitud": -79.47441
 		},
 		{
 			"IdEstablecimiento": "4544",
@@ -13745,8 +13717,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "41",
-			"Latitud": "-7.36642873",
-			"Longitud": "-78.80799951"
+			"Latitud": -7.366429,
+			"Longitud": -78.808
 		},
 		{
 			"IdEstablecimiento": "1540",
@@ -13773,8 +13745,8 @@
 			"PendientesPorcentaje": "8.82",
 			"Perdidos": "0",
 			"CantidadVacunados": "31",
-			"Latitud": "-9.16379089",
-			"Longitud": "-77.36815658"
+			"Latitud": -9.163791,
+			"Longitud": -77.36816
 		},
 		{
 			"IdEstablecimiento": "5334",
@@ -13801,8 +13773,8 @@
 			"PendientesPorcentaje": "15.38",
 			"Perdidos": "0",
 			"CantidadVacunados": "11",
-			"Latitud": "-8.13290167",
-			"Longitud": "-78.05540833"
+			"Latitud": -8.132902,
+			"Longitud": -78.055405
 		},
 		{
 			"IdEstablecimiento": "5574",
@@ -13829,8 +13801,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.3928622",
-			"Longitud": "-74.5826166"
+			"Latitud": -8.392862,
+			"Longitud": -74.58262
 		},
 		{
 			"IdEstablecimiento": "5223",
@@ -13857,8 +13829,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "249",
-			"Latitud": "-8.06921193",
-			"Longitud": "-79.05401551"
+			"Latitud": -8.069212,
+			"Longitud": -79.054016
 		},
 		{
 			"IdEstablecimiento": "5227",
@@ -13885,8 +13857,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.05638833",
-			"Longitud": "-79.05245119"
+			"Latitud": -8.056388,
+			"Longitud": -79.05245
 		},
 		{
 			"IdEstablecimiento": "9163",
@@ -13913,8 +13885,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.0749737",
-			"Longitud": "-79.0540006"
+			"Latitud": -8.074974,
+			"Longitud": -79.054
 		},
 		{
 			"IdEstablecimiento": "30579",
@@ -13941,8 +13913,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.05433251",
-			"Longitud": "-79.05803067"
+			"Latitud": -8.054333,
+			"Longitud": -79.05803
 		},
 		{
 			"IdEstablecimiento": "6575",
@@ -13969,8 +13941,8 @@
 			"PendientesPorcentaje": "32.36",
 			"Perdidos": "0",
 			"CantidadVacunados": "255",
-			"Latitud": "-8.19046675",
-			"Longitud": "-76.51359467"
+			"Latitud": -8.190467,
+			"Longitud": -76.513596
 		},
 		{
 			"IdEstablecimiento": "5305",
@@ -13997,8 +13969,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "9",
-			"Latitud": "-8.17197256",
-			"Longitud": "-78.40994051"
+			"Latitud": -8.171972,
+			"Longitud": -78.40994
 		},
 		{
 			"IdEstablecimiento": "5206",
@@ -14025,8 +13997,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "201",
-			"Latitud": "-8.08325535",
-			"Longitud": "-78.99735656"
+			"Latitud": -8.083256,
+			"Longitud": -78.99736
 		},
 		{
 			"IdEstablecimiento": "5217",
@@ -14053,8 +14025,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.06685225",
-			"Longitud": "-79.01880959"
+			"Latitud": -8.066853,
+			"Longitud": -79.01881
 		},
 		{
 			"IdEstablecimiento": "9592",
@@ -14081,8 +14053,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.07474667",
-			"Longitud": "-79.00711"
+			"Latitud": -8.074747,
+			"Longitud": -79.00711
 		},
 		{
 			"IdEstablecimiento": "5240",
@@ -14109,8 +14081,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "95",
-			"Latitud": "-8.13853166",
-			"Longitud": "-79.04842534"
+			"Latitud": -8.138532,
+			"Longitud": -79.04842
 		},
 		{
 			"IdEstablecimiento": "12777",
@@ -14137,8 +14109,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.130136",
-			"Longitud": "-79.039329"
+			"Latitud": -8.130136,
+			"Longitud": -79.03933
 		},
 		{
 			"IdEstablecimiento": "5329",
@@ -14165,8 +14137,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "109",
-			"Latitud": "-8.142575",
-			"Longitud": "-78.172465"
+			"Latitud": -8.142575,
+			"Longitud": -78.17246
 		},
 		{
 			"IdEstablecimiento": "9104",
@@ -14193,8 +14165,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.1110707",
-			"Longitud": "-79.0349299"
+			"Latitud": -8.111071,
+			"Longitud": -79.03493
 		},
 		{
 			"IdEstablecimiento": "9261",
@@ -14221,8 +14193,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.0996179",
-			"Longitud": "-79.0120577"
+			"Latitud": -8.099618,
+			"Longitud": -79.012054
 		},
 		{
 			"IdEstablecimiento": "15535",
@@ -14249,8 +14221,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.1022771",
-			"Longitud": "-79.0346585"
+			"Latitud": -8.102277,
+			"Longitud": -79.03466
 		},
 		{
 			"IdEstablecimiento": "5201",
@@ -14277,8 +14249,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "501",
-			"Latitud": "-8.10346913",
-			"Longitud": "-79.01030684"
+			"Latitud": -8.103469,
+			"Longitud": -79.01031
 		},
 		{
 			"IdEstablecimiento": "5199",
@@ -14305,8 +14277,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.11303099",
-			"Longitud": "-79.0071627"
+			"Latitud": -8.113031,
+			"Longitud": -79.007164
 		},
 		{
 			"IdEstablecimiento": "5194",
@@ -14333,8 +14305,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.11307335",
-			"Longitud": "-79.04841776"
+			"Latitud": -8.113073,
+			"Longitud": -79.048416
 		},
 		{
 			"IdEstablecimiento": "5193",
@@ -14361,8 +14333,8 @@
 			"PendientesPorcentaje": "1.43",
 			"Perdidos": "0",
 			"CantidadVacunados": "964",
-			"Latitud": "-8.10466063",
-			"Longitud": "-79.03687835"
+			"Latitud": -8.104661,
+			"Longitud": -79.03688
 		},
 		{
 			"IdEstablecimiento": "5192",
@@ -14389,8 +14361,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "860",
-			"Latitud": "-8.11466301",
-			"Longitud": "-79.02843802"
+			"Latitud": -8.114663,
+			"Longitud": -79.028435
 		},
 		{
 			"IdEstablecimiento": "27561",
@@ -14417,8 +14389,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.1218187",
-			"Longitud": "-79.034041"
+			"Latitud": -8.121819,
+			"Longitud": -79.03404
 		},
 		{
 			"IdEstablecimiento": "18176",
@@ -14445,8 +14417,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.10389333",
-			"Longitud": "-79.03684167"
+			"Latitud": -8.103893,
+			"Longitud": -79.03684
 		},
 		{
 			"IdEstablecimiento": "7245",
@@ -14473,8 +14445,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.13429073",
-			"Longitud": "-79.01947678"
+			"Latitud": -8.134291,
+			"Longitud": -79.01948
 		},
 		{
 			"IdEstablecimiento": "5214",
@@ -14501,8 +14473,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "80",
-			"Latitud": "-8.08771881",
-			"Longitud": "-79.02560454"
+			"Latitud": -8.087719,
+			"Longitud": -79.025604
 		},
 		{
 			"IdEstablecimiento": "9086",
@@ -14529,8 +14501,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-8.07781318",
-			"Longitud": "-79.02238319"
+			"Latitud": -8.077813,
+			"Longitud": -79.022385
 		},
 		{
 			"IdEstablecimiento": "4652",
@@ -14557,8 +14529,8 @@
 			"PendientesPorcentaje": "36.65",
 			"Perdidos": "0",
 			"CantidadVacunados": "178",
-			"Latitud": "-7.155349",
-			"Longitud": "-78.513181"
+			"Latitud": -7.155349,
+			"Longitud": -78.51318
 		},
 		{
 			"IdEstablecimiento": "4654",
@@ -14585,8 +14557,8 @@
 			"PendientesPorcentaje": "34.21",
 			"Perdidos": "0",
 			"CantidadVacunados": "50",
-			"Latitud": "-7.20029",
-			"Longitud": "-78.48587"
+			"Latitud": -7.20029,
+			"Longitud": -78.48587
 		},
 		{
 			"IdEstablecimiento": "7382",
@@ -14613,8 +14585,8 @@
 			"PendientesPorcentaje": "27.38",
 			"Perdidos": "0",
 			"CantidadVacunados": "772",
-			"Latitud": "-7.183407",
-			"Longitud": "-78.487692"
+			"Latitud": -7.183407,
+			"Longitud": -78.48769
 		},
 		{
 			"IdEstablecimiento": "10154",
@@ -14641,8 +14613,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-7.14821435",
-			"Longitud": "-78.51495354"
+			"Latitud": -7.1482143,
+			"Longitud": -78.51495
 		},
 		{
 			"IdEstablecimiento": "12162",
@@ -14669,8 +14641,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-7.15988333",
-			"Longitud": "-78.50902167"
+			"Latitud": -7.1598835,
+			"Longitud": -78.50902
 		},
 		{
 			"IdEstablecimiento": "6453",
@@ -14697,8 +14669,8 @@
 			"PendientesPorcentaje": "11.11",
 			"Perdidos": "0",
 			"CantidadVacunados": "72",
-			"Latitud": "-6.91805902",
-			"Longitud": "-76.3302071"
+			"Latitud": -6.918059,
+			"Longitud": -76.33021
 		},
 		{
 			"IdEstablecimiento": "6498",
@@ -14725,8 +14697,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "88",
-			"Latitud": "-7.05457844",
-			"Longitud": "-76.58256361"
+			"Latitud": -7.0545783,
+			"Longitud": -76.582565
 		},
 		{
 			"IdEstablecimiento": "1516",
@@ -14753,8 +14725,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "88",
-			"Latitud": "-9.27748394",
-			"Longitud": "-77.6493849"
+			"Latitud": -9.277484,
+			"Longitud": -77.64938
 		},
 		{
 			"IdEstablecimiento": "1813",
@@ -14781,8 +14753,8 @@
 			"PendientesPorcentaje": "16.8",
 			"Perdidos": "0",
 			"CantidadVacunados": "104",
-			"Latitud": "-9.34198474",
-			"Longitud": "-77.16777014"
+			"Latitud": -9.341985,
+			"Longitud": -77.16777
 		},
 		{
 			"IdEstablecimiento": "1543",
@@ -14809,8 +14781,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "424",
-			"Latitud": "-9.534568",
-			"Longitud": "-77.529311"
+			"Latitud": -9.534568,
+			"Longitud": -77.52931
 		},
 		{
 			"IdEstablecimiento": "4558",
@@ -14837,8 +14809,8 @@
 			"PendientesPorcentaje": "26.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "37",
-			"Latitud": "-6.99998",
-			"Longitud": "-78.85382"
+			"Latitud": -6.99998,
+			"Longitud": -78.85382
 		},
 		{
 			"IdEstablecimiento": "5548",
@@ -14865,8 +14837,8 @@
 			"PendientesPorcentaje": "44.44",
 			"Perdidos": "0",
 			"CantidadVacunados": "40",
-			"Latitud": "-8.39674376",
-			"Longitud": "-74.53414435"
+			"Latitud": -8.396744,
+			"Longitud": -74.53414
 		},
 		{
 			"IdEstablecimiento": "1026",
@@ -14893,8 +14865,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "41",
-			"Latitud": "-10.44219845",
-			"Longitud": "-76.18950948"
+			"Latitud": -10.442199,
+			"Longitud": -76.18951
 		},
 		{
 			"IdEstablecimiento": "11234",
@@ -14921,8 +14893,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-10.44866748",
-			"Longitud": "-76.18241048"
+			"Latitud": -10.448668,
+			"Longitud": -76.18241
 		},
 		{
 			"IdEstablecimiento": "995",
@@ -14949,8 +14921,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "23",
-			"Latitud": "-10.47039497",
-			"Longitud": "-76.35476769"
+			"Latitud": -10.470395,
+			"Longitud": -76.35477
 		},
 		{
 			"IdEstablecimiento": "1765",
@@ -14977,8 +14949,8 @@
 			"PendientesPorcentaje": "15.69",
 			"Perdidos": "0",
 			"CantidadVacunados": "86",
-			"Latitud": "-8.81402076",
-			"Longitud": "-77.4641063"
+			"Latitud": -8.814021,
+			"Longitud": -77.4641
 		},
 		{
 			"IdEstablecimiento": "1652",
@@ -15005,8 +14977,8 @@
 			"PendientesPorcentaje": "9.82",
 			"Perdidos": "0",
 			"CantidadVacunados": "404",
-			"Latitud": "-9.07562297",
-			"Longitud": "-78.6017774"
+			"Latitud": -9.075623,
+			"Longitud": -78.601776
 		},
 		{
 			"IdEstablecimiento": "1659",
@@ -15033,8 +15005,8 @@
 			"PendientesPorcentaje": "36.07",
 			"Perdidos": "0",
 			"CantidadVacunados": "39",
-			"Latitud": "-9.06722886",
-			"Longitud": "-78.58748786"
+			"Latitud": -9.067229,
+			"Longitud": -78.58749
 		},
 		{
 			"IdEstablecimiento": "15986",
@@ -15061,8 +15033,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-9.07299",
-			"Longitud": "-78.592582"
+			"Latitud": -9.07299,
+			"Longitud": -78.59258
 		},
 		{
 			"IdEstablecimiento": "5339",
@@ -15089,8 +15061,8 @@
 			"PendientesPorcentaje": "29.41",
 			"Perdidos": "0",
 			"CantidadVacunados": "12",
-			"Latitud": "-8.00206667",
-			"Longitud": "-78.31174667"
+			"Latitud": -8.002067,
+			"Longitud": -78.311745
 		},
 		{
 			"IdEstablecimiento": "5315",
@@ -15117,8 +15089,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "13",
-			"Latitud": "-7.9816",
-			"Longitud": "-78.546"
+			"Latitud": -7.9816,
+			"Longitud": -78.546
 		},
 		{
 			"IdEstablecimiento": "5311",
@@ -15145,8 +15117,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "181",
-			"Latitud": "-7.90529148",
-			"Longitud": "-78.5650786"
+			"Latitud": -7.9052916,
+			"Longitud": -78.56508
 		},
 		{
 			"IdEstablecimiento": "5346",
@@ -15173,8 +15145,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "217",
-			"Latitud": "-7.817422",
-			"Longitud": "-78.04389675"
+			"Latitud": -7.817422,
+			"Longitud": -78.0439
 		},
 		{
 			"IdEstablecimiento": "5325",
@@ -15201,8 +15173,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "14",
-			"Latitud": "-7.81577667",
-			"Longitud": "-78.41855333"
+			"Latitud": -7.815777,
+			"Longitud": -78.41856
 		},
 		{
 			"IdEstablecimiento": "5386",
@@ -15229,8 +15201,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "20",
-			"Latitud": "-7.78450554",
-			"Longitud": "-77.59559249"
+			"Latitud": -7.7845054,
+			"Longitud": -77.59559
 		},
 		{
 			"IdEstablecimiento": "4314",
@@ -15257,8 +15229,8 @@
 			"PendientesPorcentaje": "15.76",
 			"Perdidos": "0",
 			"CantidadVacunados": "529",
-			"Latitud": "-6.77254167",
-			"Longitud": "-79.84282667"
+			"Latitud": -6.7725415,
+			"Longitud": -79.84283
 		},
 		{
 			"IdEstablecimiento": "9033",
@@ -15285,8 +15257,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-6.773685",
-			"Longitud": "-79.83079167"
+			"Latitud": -6.773685,
+			"Longitud": -79.830795
 		},
 		{
 			"IdEstablecimiento": "14654",
@@ -15313,8 +15285,8 @@
 			"PendientesPorcentaje": "5.91",
 			"Perdidos": "0",
 			"CantidadVacunados": "1210",
-			"Latitud": "-6.761813",
-			"Longitud": "-79.863203"
+			"Latitud": -6.761813,
+			"Longitud": -79.863205
 		},
 		{
 			"IdEstablecimiento": "4947",
@@ -15341,8 +15313,8 @@
 			"PendientesPorcentaje": "36.9",
 			"Perdidos": "0",
 			"CantidadVacunados": "53",
-			"Latitud": "-6.39564667",
-			"Longitud": "-77.47855167"
+			"Latitud": -6.3956466,
+			"Longitud": -77.47855
 		},
 		{
 			"IdEstablecimiento": "6419",
@@ -15369,8 +15341,8 @@
 			"PendientesPorcentaje": "33.33",
 			"Perdidos": "0",
 			"CantidadVacunados": "14",
-			"Latitud": "-6.57220912",
-			"Longitud": "-76.13347905"
+			"Latitud": -6.5722094,
+			"Longitud": -76.13348
 		},
 		{
 			"IdEstablecimiento": "4656",
@@ -15397,8 +15369,8 @@
 			"PendientesPorcentaje": "41.74",
 			"Perdidos": "0",
 			"CantidadVacunados": "141",
-			"Latitud": "-6.5615918",
-			"Longitud": "-78.65402665"
+			"Latitud": -6.5615916,
+			"Longitud": -78.65403
 		},
 		{
 			"IdEstablecimiento": "4929",
@@ -15425,8 +15397,8 @@
 			"PendientesPorcentaje": "21.21",
 			"Perdidos": "0",
 			"CantidadVacunados": "26",
-			"Latitud": "-5.82481484",
-			"Longitud": "-77.96734866"
+			"Latitud": -5.824815,
+			"Longitud": -77.96735
 		},
 		{
 			"IdEstablecimiento": "5122",
@@ -15453,8 +15425,8 @@
 			"PendientesPorcentaje": "26.32",
 			"Perdidos": "0",
 			"CantidadVacunados": "140",
-			"Latitud": "-5.75390793",
-			"Longitud": "-78.44056263"
+			"Latitud": -5.753908,
+			"Longitud": -78.44056
 		},
 		{
 			"IdEstablecimiento": "9054",
@@ -15481,8 +15453,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-5.75149999",
-			"Longitud": "-78.44633413"
+			"Latitud": -5.7515,
+			"Longitud": -78.446335
 		},
 		{
 			"IdEstablecimiento": "4207",
@@ -15509,8 +15481,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "463",
-			"Latitud": "-5.70621441",
-			"Longitud": "-78.80471119"
+			"Latitud": -5.7062144,
+			"Longitud": -78.80471
 		},
 		{
 			"IdEstablecimiento": "4208",
@@ -15537,8 +15509,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "97",
-			"Latitud": "-5.7106",
-			"Longitud": "-78.81192"
+			"Latitud": -5.7106,
+			"Longitud": -78.81192
 		},
 		{
 			"IdEstablecimiento": "8885",
@@ -15565,8 +15537,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-5.7134468",
-			"Longitud": "-78.8008309"
+			"Latitud": -5.7134466,
+			"Longitud": -78.800835
 		},
 		{
 			"IdEstablecimiento": "210",
@@ -15593,8 +15565,8 @@
 			"PendientesPorcentaje": "35.91",
 			"Perdidos": "0",
 			"CantidadVacunados": "216",
-			"Latitud": "-5.89353",
-			"Longitud": "-76.10645167"
+			"Latitud": -5.89353,
+			"Longitud": -76.10645
 		},
 		{
 			"IdEstablecimiento": "212",
@@ -15621,8 +15593,8 @@
 			"PendientesPorcentaje": "2.5",
 			"Perdidos": "0",
 			"CantidadVacunados": "39",
-			"Latitud": "-6.10275",
-			"Longitud": "-76.26957"
+			"Latitud": -6.10275,
+			"Longitud": -76.26957
 		},
 		{
 			"IdEstablecimiento": "29999",
@@ -15649,8 +15621,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-5.89606",
-			"Longitud": "-76.11616333"
+			"Latitud": -5.89606,
+			"Longitud": -76.116165
 		},
 		{
 			"IdEstablecimiento": "6328",
@@ -15677,8 +15649,8 @@
 			"PendientesPorcentaje": "7.69",
 			"Perdidos": "0",
 			"CantidadVacunados": "48",
-			"Latitud": "-6.13667667",
-			"Longitud": "-77.10437333"
+			"Latitud": -6.136677,
+			"Longitud": -77.10437
 		},
 		{
 			"IdEstablecimiento": "6299",
@@ -15705,8 +15677,8 @@
 			"PendientesPorcentaje": "33.33",
 			"Perdidos": "0",
 			"CantidadVacunados": "22",
-			"Latitud": "-5.73767071",
-			"Longitud": "-77.5042021"
+			"Latitud": -5.737671,
+			"Longitud": -77.5042
 		},
 		{
 			"IdEstablecimiento": "4739",
@@ -15733,8 +15705,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "45",
-			"Latitud": "-6.39357788",
-			"Longitud": "-78.61199335"
+			"Latitud": -6.393578,
+			"Longitud": -78.61199
 		},
 		{
 			"IdEstablecimiento": "6348",
@@ -15761,8 +15733,8 @@
 			"PendientesPorcentaje": "8.7",
 			"Perdidos": "0",
 			"CantidadVacunados": "63",
-			"Latitud": "-6.41549003",
-			"Longitud": "-76.51878761"
+			"Latitud": -6.41549,
+			"Longitud": -76.51879
 		},
 		{
 			"IdEstablecimiento": "4919",
@@ -15789,8 +15761,8 @@
 			"PendientesPorcentaje": "11.36",
 			"Perdidos": "0",
 			"CantidadVacunados": "39",
-			"Latitud": "-5.94356629",
-			"Longitud": "-77.97722101"
+			"Latitud": -5.9435663,
+			"Longitud": -77.97722
 		},
 		{
 			"IdEstablecimiento": "161",
@@ -15817,8 +15789,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-6.03194009",
-			"Longitud": "-74.85340813"
+			"Latitud": -6.03194,
+			"Longitud": -74.85341
 		},
 		{
 			"IdEstablecimiento": "6279",
@@ -15845,8 +15817,8 @@
 			"PendientesPorcentaje": "32.35",
 			"Perdidos": "0",
 			"CantidadVacunados": "46",
-			"Latitud": "-5.93988648",
-			"Longitud": "-77.30657775"
+			"Latitud": -5.9398866,
+			"Longitud": -77.30658
 		},
 		{
 			"IdEstablecimiento": "4463",
@@ -15873,8 +15845,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "89",
-			"Latitud": "-6.86815",
-			"Longitud": "-78.14889"
+			"Latitud": -6.86815,
+			"Longitud": -78.14889
 		},
 		{
 			"IdEstablecimiento": "4810",
@@ -15901,8 +15873,8 @@
 			"PendientesPorcentaje": "19.05",
 			"Perdidos": "0",
 			"CantidadVacunados": "51",
-			"Latitud": "-6.630679",
-			"Longitud": "-78.943336"
+			"Latitud": -6.630679,
+			"Longitud": -78.94334
 		},
 		{
 			"IdEstablecimiento": "4437",
@@ -15929,8 +15901,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "151",
-			"Latitud": "-6.6424109",
-			"Longitud": "-79.78884283"
+			"Latitud": -6.6424108,
+			"Longitud": -79.78884
 		},
 		{
 			"IdEstablecimiento": "4779",
@@ -15957,8 +15929,8 @@
 			"PendientesPorcentaje": "20.92",
 			"Perdidos": "0",
 			"CantidadVacunados": "121",
-			"Latitud": "-6.67111069",
-			"Longitud": "-78.52894909"
+			"Latitud": -6.6711106,
+			"Longitud": -78.528946
 		},
 		{
 			"IdEstablecimiento": "6481",
@@ -15985,8 +15957,8 @@
 			"PendientesPorcentaje": "22.02",
 			"Perdidos": "0",
 			"CantidadVacunados": "85",
-			"Latitud": "-6.61475542",
-			"Longitud": "-76.68859624"
+			"Latitud": -6.6147556,
+			"Longitud": -76.6886
 		},
 		{
 			"IdEstablecimiento": "6357",
@@ -16013,8 +15985,8 @@
 			"PendientesPorcentaje": "18.02",
 			"Perdidos": "0",
 			"CantidadVacunados": "91",
-			"Latitud": "-6.48441537",
-			"Longitud": "-76.38188572"
+			"Latitud": -6.4844155,
+			"Longitud": -76.38189
 		},
 		{
 			"IdEstablecimiento": "1866",
@@ -16041,8 +16013,8 @@
 			"PendientesPorcentaje": "17.14",
 			"Perdidos": "0",
 			"CantidadVacunados": "58",
-			"Latitud": "-3.60064797",
-			"Longitud": "-80.48188319"
+			"Latitud": -3.600648,
+			"Longitud": -80.48188
 		},
 		{
 			"IdEstablecimiento": "1882",
@@ -16069,8 +16041,8 @@
 			"PendientesPorcentaje": "36.36",
 			"Perdidos": "0",
 			"CantidadVacunados": "56",
-			"Latitud": "-3.58217906",
-			"Longitud": "-80.42026826"
+			"Latitud": -3.582179,
+			"Longitud": -80.420265
 		},
 		{
 			"IdEstablecimiento": "1908",
@@ -16097,8 +16069,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-3.56270287",
-			"Longitud": "-80.4557269"
+			"Latitud": -3.562703,
+			"Longitud": -80.45573
 		},
 		{
 			"IdEstablecimiento": "9629",
@@ -16125,8 +16097,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-3.55560167",
-			"Longitud": "-80.44293167"
+			"Latitud": -3.5556016,
+			"Longitud": -80.44293
 		},
 		{
 			"IdEstablecimiento": "25168",
@@ -16153,8 +16125,8 @@
 			"PendientesPorcentaje": "6.51",
 			"Perdidos": "0",
 			"CantidadVacunados": "560",
-			"Latitud": "-3.57343253",
-			"Longitud": "-80.41947365"
+			"Latitud": -3.5734324,
+			"Longitud": -80.41947
 		},
 		{
 			"IdEstablecimiento": "29966",
@@ -16181,8 +16153,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "18",
-			"Latitud": "-3.5695573",
-			"Longitud": "-80.4606256"
+			"Latitud": -3.5695572,
+			"Longitud": -80.460625
 		},
 		{
 			"IdEstablecimiento": "1896",
@@ -16209,8 +16181,8 @@
 			"PendientesPorcentaje": "29.11",
 			"Perdidos": "0",
 			"CantidadVacunados": "56",
-			"Latitud": "-3.50092486",
-			"Longitud": "-80.2720286"
+			"Latitud": -3.5009248,
+			"Longitud": -80.272026
 		},
 		{
 			"IdEstablecimiento": "3",
@@ -16237,8 +16209,8 @@
 			"PendientesPorcentaje": "29.17",
 			"Perdidos": "0",
 			"CantidadVacunados": "561",
-			"Latitud": "-3.72696048",
-			"Longitud": "-73.25341698"
+			"Latitud": -3.7269604,
+			"Longitud": -73.25342
 		},
 		{
 			"IdEstablecimiento": "16",
@@ -16265,8 +16237,8 @@
 			"PendientesPorcentaje": "19.67",
 			"Perdidos": "0",
 			"CantidadVacunados": "98",
-			"Latitud": "-3.4753",
-			"Longitud": "-73.3468"
+			"Latitud": -3.4753,
+			"Longitud": -73.3468
 		},
 		{
 			"IdEstablecimiento": "13436",
@@ -16293,8 +16265,8 @@
 			"PendientesPorcentaje": "1.92",
 			"Perdidos": "0",
 			"CantidadVacunados": "51",
-			"Latitud": "-3.73172833",
-			"Longitud": "-73.24118167"
+			"Latitud": -3.7317283,
+			"Longitud": -73.24118
 		},
 		{
 			"IdEstablecimiento": "14556",
@@ -16321,8 +16293,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-3.7188408",
-			"Longitud": "-73.2439423"
+			"Latitud": -3.7188408,
+			"Longitud": -73.24394
 		},
 		{
 			"IdEstablecimiento": "91",
@@ -16349,8 +16321,8 @@
 			"PendientesPorcentaje": "9.93",
 			"Perdidos": "0",
 			"CantidadVacunados": "127",
-			"Latitud": "-4.50579542",
-			"Longitud": "-73.57614988"
+			"Latitud": -4.5057955,
+			"Longitud": -73.57615
 		},
 		{
 			"IdEstablecimiento": "118",
@@ -16377,8 +16349,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "57",
-			"Latitud": "-3.90842333",
-			"Longitud": "-70.51696667"
+			"Latitud": -3.9084234,
+			"Longitud": -70.51697
 		},
 		{
 			"IdEstablecimiento": "4264",
@@ -16405,8 +16377,8 @@
 			"PendientesPorcentaje": "15.32",
 			"Perdidos": "0",
 			"CantidadVacunados": "94",
-			"Latitud": "-5.14467",
-			"Longitud": "-79.003002"
+			"Latitud": -5.14467,
+			"Longitud": -79.003
 		},
 		{
 			"IdEstablecimiento": "2187",
@@ -16433,8 +16405,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "42",
-			"Latitud": "-5.26550229",
-			"Longitud": "-79.96803358"
+			"Latitud": -5.2655025,
+			"Longitud": -79.96803
 		},
 		{
 			"IdEstablecimiento": "2237",
@@ -16461,8 +16433,8 @@
 			"PendientesPorcentaje": "1.89",
 			"Perdidos": "0",
 			"CantidadVacunados": "52",
-			"Latitud": "-5.37528402",
-			"Longitud": "-79.6032604"
+			"Latitud": -5.375284,
+			"Longitud": -79.603264
 		},
 		{
 			"IdEstablecimiento": "2111",
@@ -16489,8 +16461,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "71",
-			"Latitud": "-5.26556333",
-			"Longitud": "-80.67195"
+			"Latitud": -5.2655635,
+			"Longitud": -80.67195
 		},
 		{
 			"IdEstablecimiento": "2084",
@@ -16517,8 +16489,8 @@
 			"PendientesPorcentaje": "31.06",
 			"Perdidos": "0",
 			"CantidadVacunados": "577",
-			"Latitud": "-5.18376667",
-			"Longitud": "-80.66560667"
+			"Latitud": -5.183767,
+			"Longitud": -80.6656
 		},
 		{
 			"IdEstablecimiento": "2088",
@@ -16545,8 +16517,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "70",
-			"Latitud": "-5.19686",
-			"Longitud": "-80.64476333"
+			"Latitud": -5.19686,
+			"Longitud": -80.64476
 		},
 		{
 			"IdEstablecimiento": "2090",
@@ -16573,8 +16545,8 @@
 			"PendientesPorcentaje": "21.21",
 			"Perdidos": "0",
 			"CantidadVacunados": "52",
-			"Latitud": "-5.191175",
-			"Longitud": "-80.65948333"
+			"Latitud": -5.191175,
+			"Longitud": -80.659485
 		},
 		{
 			"IdEstablecimiento": "2231",
@@ -16601,8 +16573,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "23",
-			"Latitud": "-5.21492075",
-			"Longitud": "-79.68042816"
+			"Latitud": -5.2149205,
+			"Longitud": -79.68043
 		},
 		{
 			"IdEstablecimiento": "2181",
@@ -16629,8 +16601,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "77",
-			"Latitud": "-5.18913",
-			"Longitud": "-79.96751833"
+			"Latitud": -5.18913,
+			"Longitud": -79.96752
 		},
 		{
 			"IdEstablecimiento": "2249",
@@ -16657,8 +16629,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "93",
-			"Latitud": "-5.2477",
-			"Longitud": "-79.45501667"
+			"Latitud": -5.2477,
+			"Longitud": -79.45502
 		},
 		{
 			"IdEstablecimiento": "2201",
@@ -16685,8 +16657,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "32",
-			"Latitud": "-5.04342167",
-			"Longitud": "-79.79485333"
+			"Latitud": -5.0434217,
+			"Longitud": -79.79485
 		},
 		{
 			"IdEstablecimiento": "2085",
@@ -16713,8 +16685,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "71",
-			"Latitud": "-5.17499667",
-			"Longitud": "-80.64618167"
+			"Latitud": -5.174997,
+			"Longitud": -80.64618
 		},
 		{
 			"IdEstablecimiento": "2086",
@@ -16741,8 +16713,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "49",
-			"Latitud": "-5.18635",
-			"Longitud": "-80.63138167"
+			"Latitud": -5.18635,
+			"Longitud": -80.63138
 		},
 		{
 			"IdEstablecimiento": "2092",
@@ -16769,8 +16741,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "46",
-			"Latitud": "-5.20041833",
-			"Longitud": "-80.63972667"
+			"Latitud": -5.2004185,
+			"Longitud": -80.639725
 		},
 		{
 			"IdEstablecimiento": "12232",
@@ -16797,8 +16769,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-5.1933154",
-			"Longitud": "-80.6363336"
+			"Latitud": -5.1933155,
+			"Longitud": -80.63634
 		},
 		{
 			"IdEstablecimiento": "27337",
@@ -16825,8 +16797,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-5.1782884",
-			"Longitud": "-80.6548882"
+			"Latitud": -5.1782885,
+			"Longitud": -80.65489
 		},
 		{
 			"IdEstablecimiento": "2099",
@@ -16853,8 +16825,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "120",
-			"Latitud": "-5.198285",
-			"Longitud": "-80.619265"
+			"Latitud": -5.198285,
+			"Longitud": -80.61926
 		},
 		{
 			"IdEstablecimiento": "17300",
@@ -16881,8 +16853,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-5.195895",
-			"Longitud": "-80.62051333"
+			"Latitud": -5.195895,
+			"Longitud": -80.620514
 		},
 		{
 			"IdEstablecimiento": "21893",
@@ -16909,8 +16881,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-5.18744257",
-			"Longitud": "-80.62249257"
+			"Latitud": -5.187443,
+			"Longitud": -80.62249
 		},
 		{
 			"IdEstablecimiento": "2214",
@@ -16937,8 +16909,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "32",
-			"Latitud": "-5.03187319",
-			"Longitud": "-79.87648227"
+			"Latitud": -5.031873,
+			"Longitud": -79.87648
 		},
 		{
 			"IdEstablecimiento": "2160",
@@ -16965,8 +16937,8 @@
 			"PendientesPorcentaje": "16.21",
 			"Perdidos": "0",
 			"CantidadVacunados": "274",
-			"Latitud": "-5.10300073",
-			"Longitud": "-80.17076507"
+			"Latitud": -5.1030006,
+			"Longitud": -80.17077
 		},
 		{
 			"IdEstablecimiento": "2001",
@@ -16993,8 +16965,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "132",
-			"Latitud": "-4.88467601",
-			"Longitud": "-80.67170624"
+			"Latitud": -4.884676,
+			"Longitud": -80.67171
 		},
 		{
 			"IdEstablecimiento": "2026",
@@ -17021,8 +16993,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-4.91155121",
-			"Longitud": "-81.05800543"
+			"Latitud": -4.911551,
+			"Longitud": -81.05801
 		},
 		{
 			"IdEstablecimiento": "2206",
@@ -17049,8 +17021,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "39",
-			"Latitud": "-4.99439148",
-			"Longitud": "-79.66840617"
+			"Latitud": -4.9943914,
+			"Longitud": -79.6684
 		},
 		{
 			"IdEstablecimiento": "1977",
@@ -17077,8 +17049,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-4.92299341",
-			"Longitud": "-80.33621452"
+			"Latitud": -4.922993,
+			"Longitud": -80.33621
 		},
 		{
 			"IdEstablecimiento": "1910",
@@ -17105,8 +17077,8 @@
 			"PendientesPorcentaje": "69.18",
 			"Perdidos": "0",
 			"CantidadVacunados": "200",
-			"Latitud": "-4.89642262",
-			"Longitud": "-80.69477581"
+			"Latitud": -4.8964224,
+			"Longitud": -80.69478
 		},
 		{
 			"IdEstablecimiento": "12245",
@@ -17133,8 +17105,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-4.90640275",
-			"Longitud": "-80.69131494"
+			"Latitud": -4.9064026,
+			"Longitud": -80.691315
 		},
 		{
 			"IdEstablecimiento": "2050",
@@ -17161,8 +17133,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-4.83709696",
-			"Longitud": "-80.64590892"
+			"Latitud": -4.837097,
+			"Longitud": -80.64591
 		},
 		{
 			"IdEstablecimiento": "1959",
@@ -17189,8 +17161,8 @@
 			"PendientesPorcentaje": "10.81",
 			"Perdidos": "0",
 			"CantidadVacunados": "33",
-			"Latitud": "-4.62478543",
-			"Longitud": "-79.94771296"
+			"Latitud": -4.6247854,
+			"Longitud": -79.947716
 		},
 		{
 			"IdEstablecimiento": "1911",
@@ -17217,8 +17189,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-4.63578921",
-			"Longitud": "-79.71413952"
+			"Latitud": -4.6357894,
+			"Longitud": -79.71414
 		},
 		{
 			"IdEstablecimiento": "2074",
@@ -17245,8 +17217,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "141",
-			"Latitud": "-4.578829",
-			"Longitud": "-81.27209591"
+			"Latitud": -4.578829,
+			"Longitud": -81.272095
 		},
 		{
 			"IdEstablecimiento": "12139",
@@ -17273,8 +17245,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-4.5684194",
-			"Longitud": "-81.27384046"
+			"Latitud": -4.5684195,
+			"Longitud": -81.27384
 		},
 		{
 			"IdEstablecimiento": "13462",
@@ -17301,8 +17273,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-4.57851044",
-			"Longitud": "-81.27558831"
+			"Latitud": -4.5785103,
+			"Longitud": -81.27559
 		},
 		{
 			"IdEstablecimiento": "2021",
@@ -17329,8 +17301,8 @@
 			"PendientesPorcentaje": "12.44",
 			"Perdidos": "0",
 			"CantidadVacunados": "387",
-			"Latitud": "-5.09081453",
-			"Longitud": "-81.09153053"
+			"Latitud": -5.0908146,
+			"Longitud": -81.09153
 		},
 		{
 			"IdEstablecimiento": "9371",
@@ -17357,8 +17329,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-5.08758322",
-			"Longitud": "-81.10024265"
+			"Latitud": -5.087583,
+			"Longitud": -81.10024
 		},
 		{
 			"IdEstablecimiento": "2142",
@@ -17385,8 +17357,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "65",
-			"Latitud": "-5.5605734",
-			"Longitud": "-80.8213624"
+			"Latitud": -5.5605736,
+			"Longitud": -80.821365
 		},
 		{
 			"IdEstablecimiento": "3941",
@@ -17413,8 +17385,8 @@
 			"PendientesPorcentaje": "28.65",
 			"Perdidos": "0",
 			"CantidadVacunados": "127",
-			"Latitud": "-12.99680833",
-			"Longitud": "-74.72378833"
+			"Latitud": -12.996808,
+			"Longitud": -74.723785
 		},
 		{
 			"IdEstablecimiento": "3845",
@@ -17441,8 +17413,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "54",
-			"Latitud": "-13.65732406",
-			"Longitud": "-73.95321237"
+			"Latitud": -13.657324,
+			"Longitud": -73.95321
 		},
 		{
 			"IdEstablecimiento": "3699",
@@ -17469,8 +17441,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "62",
-			"Latitud": "-15.28102173",
-			"Longitud": "-73.34357525"
+			"Latitud": -15.281022,
+			"Longitud": -73.343575
 		},
 		{
 			"IdEstablecimiento": "3521",
@@ -17497,8 +17469,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "171",
-			"Latitud": "-15.01339177",
-			"Longitud": "-73.78244415"
+			"Latitud": -15.0133915,
+			"Longitud": -73.78245
 		},
 		{
 			"IdEstablecimiento": "3725",
@@ -17525,8 +17497,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "202",
-			"Latitud": "-14.68641667",
-			"Longitud": "-74.11954333"
+			"Latitud": -14.686417,
+			"Longitud": -74.119545
 		},
 		{
 			"IdEstablecimiento": "3832",
@@ -17553,8 +17525,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "45",
-			"Latitud": "-13.74943557",
-			"Longitud": "-74.06702115"
+			"Latitud": -13.749435,
+			"Longitud": -74.067024
 		},
 		{
 			"IdEstablecimiento": "3752",
@@ -17581,8 +17553,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "151",
-			"Latitud": "-12.62421833",
-			"Longitud": "-73.78954"
+			"Latitud": -12.624218,
+			"Longitud": -73.78954
 		},
 		{
 			"IdEstablecimiento": "3492",
@@ -17609,8 +17581,8 @@
 			"PendientesPorcentaje": "0.75",
 			"Perdidos": "0",
 			"CantidadVacunados": "132",
-			"Latitud": "-13.63038833",
-			"Longitud": "-74.142245"
+			"Latitud": -13.630388,
+			"Longitud": -74.14224
 		},
 		{
 			"IdEstablecimiento": "3505",
@@ -17637,8 +17609,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "60",
-			"Latitud": "-13.55955833",
-			"Longitud": "-74.197615"
+			"Latitud": -13.559558,
+			"Longitud": -74.19762
 		},
 		{
 			"IdEstablecimiento": "3596",
@@ -17665,8 +17637,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "106",
-			"Latitud": "-13.17403286",
-			"Longitud": "-74.20882998"
+			"Latitud": -13.174033,
+			"Longitud": -74.20883
 		},
 		{
 			"IdEstablecimiento": "10559",
@@ -17693,8 +17665,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-13.17518167",
-			"Longitud": "-74.200145"
+			"Latitud": -13.175181,
+			"Longitud": -74.20014
 		},
 		{
 			"IdEstablecimiento": "3573",
@@ -17721,8 +17693,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "162",
-			"Latitud": "-13.15537122",
-			"Longitud": "-74.21409269"
+			"Latitud": -13.155372,
+			"Longitud": -74.214096
 		},
 		{
 			"IdEstablecimiento": "3541",
@@ -17749,8 +17721,8 @@
 			"PendientesPorcentaje": "18.6",
 			"Perdidos": "0",
 			"CantidadVacunados": "897",
-			"Latitud": "-13.15179",
-			"Longitud": "-74.223365"
+			"Latitud": -13.15179,
+			"Longitud": -74.223366
 		},
 		{
 			"IdEstablecimiento": "3653",
@@ -17777,8 +17749,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "219",
-			"Latitud": "-12.93604333",
-			"Longitud": "-74.25151333"
+			"Latitud": -12.936044,
+			"Longitud": -74.25151
 		},
 		{
 			"IdEstablecimiento": "4169",
@@ -17805,8 +17777,8 @@
 			"PendientesPorcentaje": "11.76",
 			"Perdidos": "0",
 			"CantidadVacunados": "30",
-			"Latitud": "-13.73505684",
-			"Longitud": "-73.34873166"
+			"Latitud": -13.735057,
+			"Longitud": -73.34873
 		},
 		{
 			"IdEstablecimiento": "2426",
@@ -17833,8 +17805,8 @@
 			"PendientesPorcentaje": "35.71",
 			"Perdidos": "0",
 			"CantidadVacunados": "18",
-			"Latitud": "-12.64774881",
-			"Longitud": "-73.04725009"
+			"Latitud": -12.647749,
+			"Longitud": -73.04725
 		},
 		{
 			"IdEstablecimiento": "2438",
@@ -17861,8 +17833,8 @@
 			"PendientesPorcentaje": "50.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "10",
-			"Latitud": "-12.62712833",
-			"Longitud": "-72.69179833"
+			"Latitud": -12.627129,
+			"Longitud": -72.691795
 		},
 		{
 			"IdEstablecimiento": "952",
@@ -17889,8 +17861,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "91",
-			"Latitud": "-8.92976333",
-			"Longitud": "-76.11270667"
+			"Latitud": -8.929764,
+			"Longitud": -76.11271
 		},
 		{
 			"IdEstablecimiento": "9622",
@@ -17917,8 +17889,8 @@
 			"PendientesPorcentaje": "100.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "0",
-			"Latitud": "-9.30463833",
-			"Longitud": "-76.00207"
+			"Latitud": -9.304638,
+			"Longitud": -76.00207
 		},
 		{
 			"IdEstablecimiento": "932",
@@ -17945,8 +17917,8 @@
 			"PendientesPorcentaje": "0.0",
 			"Perdidos": "0",
 			"CantidadVacunados": "474",
-			"Latitud": "-9.27106333",
-			"Longitud": "-75.98777333"
+			"Latitud": -9.271064,
+			"Longitud": -75.98777
 		}
 	]
 }
