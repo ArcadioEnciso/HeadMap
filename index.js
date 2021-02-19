@@ -32,6 +32,20 @@ function initMap() {
     // Browser doesn't support Geolocation
     handleLocationError('Error: Your browser doesn\'t support geolocation.');
   }
+
+  $.get( "data.json", function() {
+    alert( "success" );
+  })
+      .done(function() {
+        alert( "second success" );
+      })
+      .fail(function() {
+        alert( "error" );
+      })
+      .always(function() {
+        alert( "finished" );
+      });
+
 }
 
 function handleLocationError(error) {
