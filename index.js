@@ -167,7 +167,7 @@ function htmlWindow(data){
       '<p><h3><b><a href="#"> Incidencia </a></b></h3> '+
       '</div>'+
       '</div>' +
-      '<form action="/my-handling-form-page" method="post">\n' +
+      '<form action="#" method="post">\n' +
       'DNI:<br><input type="text" value="12345678"><br>' +
       'Tipo de incidencia:<br><select name="select">\n' +
       '  <option value="value1" selected>Se acabaron las vacunas</option>\n' +
