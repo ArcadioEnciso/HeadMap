@@ -4,15 +4,39 @@
 let map, heatmap;
 
 function initMap() {
+
+  var latLon = {lat: 37.775, lng: -122.434};
+
   map = new google.maps.Map(document.getElementById("map"), {
     zoom: 13,
-    center: { lat: 37.775, lng: -122.434 },
     mapTypeId: "satellite",
   });
   heatmap = new google.maps.visualization.HeatmapLayer({
     data: getPoints(),
     map: map,
   });
+
+  /* Si el navegador tiene geolocalizacion */
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(
+        function (position) {
+          latLon.lat = position.coords.latitude; /*Guardamos nuestra latitud*/
+          latLon.lng = position.coords.longitude; /*Guardamos nuestra longitud*/
+          map.setCenter(latLon);
+          map.setZoom(13);
+        }
+        ,function() {
+          handleLocationError('Error: The Geolocation service failed.');
+        });
+  }else{
+    // Browser doesn't support Geolocation
+    handleLocationError('Error: Your browser doesn\'t support geolocation.');
+  }
+}
+
+function handleLocationError(error) {
+  //alert(error);
+  return;
 }
 
 function toggleHeatmap() {
